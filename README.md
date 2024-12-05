@@ -87,5 +87,3 @@ The required datasets are already included in the repository. If additional data
 - Integrating real-time election data.
 - Advanced geospatial and temporal analysis.
 - Exploring additional predictors like campaign financing and media influence.
-
-You can copy and paste this directly into your `README.md` file in the repository. Let me know if you need additional sections or edits!

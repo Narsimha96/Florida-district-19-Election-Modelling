@@ -1,0 +1,746 @@
+Precinct County Code	Precinct County Name	Precinct Election Number	Precinct Election Date	Precinct Election Name	Precinct Unique Precinct Identifier	Precinct Precinct Polling Location	Precinct Total Registered Voters	Precinct Total Registered Republicans	Precinct Total Registered Democrats	Precinct Total Registered All Other Parties	Contest Contest Name	Contest District	Contest Contest Code	Votes Candidate/Retention/Issue Name/WriteInsCast/OverVotes/UnderVotes	Votes Candidate Party	Votes Candidate Florida Voter Registration System ID Number	Votes DOE Assigned Candidate Number or Retention/Issue Number	Votes Vote Total
+LEE	Lee	9547	11/06/2012	2012 General Election	4	POLL 004 004	3263	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	827
+LEE	Lee	9547	11/06/2012	2012 General Election	4	POLL 004 004	3263	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1061
+LEE	Lee	9547	11/06/2012	2012 General Election	4	POLL 004 004	3263	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	49
+LEE	Lee	9547	11/06/2012	2012 General Election	4	POLL 004 004	3263	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	4	POLL 004 004	3263	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	100
+LEE	Lee	9547	11/06/2012	2012 General Election	6	POLL 006 006	1990	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	555
+LEE	Lee	9547	11/06/2012	2012 General Election	6	POLL 006 006	1990	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	519
+LEE	Lee	9547	11/06/2012	2012 General Election	6	POLL 006 006	1990	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	31
+LEE	Lee	9547	11/06/2012	2012 General Election	6	POLL 006 006	1990	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	6	POLL 006 006	1990	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	69
+LEE	Lee	9547	11/06/2012	2012 General Election	7	POLL 007 007	3693	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	317
+LEE	Lee	9547	11/06/2012	2012 General Election	7	POLL 007 007	3693	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1777
+LEE	Lee	9547	11/06/2012	2012 General Election	7	POLL 007 007	3693	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	54
+LEE	Lee	9547	11/06/2012	2012 General Election	7	POLL 007 007	3693	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	3
+LEE	Lee	9547	11/06/2012	2012 General Election	7	POLL 007 007	3693	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	163
+LEE	Lee	9547	11/06/2012	2012 General Election	8	POLL 008 008	3666	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	574
+LEE	Lee	9547	11/06/2012	2012 General Election	8	POLL 008 008	3666	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1741
+LEE	Lee	9547	11/06/2012	2012 General Election	8	POLL 008 008	3666	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	43
+LEE	Lee	9547	11/06/2012	2012 General Election	8	POLL 008 008	3666	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	3
+LEE	Lee	9547	11/06/2012	2012 General Election	8	POLL 008 008	3666	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	143
+LEE	Lee	9547	11/06/2012	2012 General Election	9	POLL 009 009	3355	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	895
+LEE	Lee	9547	11/06/2012	2012 General Election	9	POLL 009 009	3355	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	957
+LEE	Lee	9547	11/06/2012	2012 General Election	9	POLL 009 009	3355	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	41
+LEE	Lee	9547	11/06/2012	2012 General Election	9	POLL 009 009	3355	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	9	POLL 009 009	3355	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	130
+LEE	Lee	9547	11/06/2012	2012 General Election	10	POLL 010 010	2127	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1008
+LEE	Lee	9547	11/06/2012	2012 General Election	10	POLL 010 010	2127	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	560
+LEE	Lee	9547	11/06/2012	2012 General Election	10	POLL 010 010	2127	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	23
+LEE	Lee	9547	11/06/2012	2012 General Election	10	POLL 010 010	2127	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	10	POLL 010 010	2127	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	91
+LEE	Lee	9547	11/06/2012	2012 General Election	11	POLL 011 011	3322	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1388
+LEE	Lee	9547	11/06/2012	2012 General Election	11	POLL 011 011	3322	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	927
+LEE	Lee	9547	11/06/2012	2012 General Election	11	POLL 011 011	3322	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	45
+LEE	Lee	9547	11/06/2012	2012 General Election	11	POLL 011 011	3322	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	11	POLL 011 011	3322	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	146
+LEE	Lee	9547	11/06/2012	2012 General Election	12	POLL 012 012	2439	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1098
+LEE	Lee	9547	11/06/2012	2012 General Election	12	POLL 012 012	2439	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	598
+LEE	Lee	9547	11/06/2012	2012 General Election	12	POLL 012 012	2439	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	31
+LEE	Lee	9547	11/06/2012	2012 General Election	12	POLL 012 012	2439	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	12	POLL 012 012	2439	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	96
+LEE	Lee	9547	11/06/2012	2012 General Election	13	POLL 013 013	3678	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1408
+LEE	Lee	9547	11/06/2012	2012 General Election	13	POLL 013 013	3678	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	951
+LEE	Lee	9547	11/06/2012	2012 General Election	13	POLL 013 013	3678	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	71
+LEE	Lee	9547	11/06/2012	2012 General Election	13	POLL 013 013	3678	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	3
+LEE	Lee	9547	11/06/2012	2012 General Election	13	POLL 013 013	3678	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	145
+LEE	Lee	9547	11/06/2012	2012 General Election	14	POLL 014 014	1657	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	620
+LEE	Lee	9547	11/06/2012	2012 General Election	14	POLL 014 014	1657	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	470
+LEE	Lee	9547	11/06/2012	2012 General Election	14	POLL 014 014	1657	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	30
+LEE	Lee	9547	11/06/2012	2012 General Election	14	POLL 014 014	1657	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	14	POLL 014 014	1657	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	61
+LEE	Lee	9547	11/06/2012	2012 General Election	15	POLL 015 015	2640	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1161
+LEE	Lee	9547	11/06/2012	2012 General Election	15	POLL 015 015	2640	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	603
+LEE	Lee	9547	11/06/2012	2012 General Election	15	POLL 015 015	2640	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	45
+LEE	Lee	9547	11/06/2012	2012 General Election	15	POLL 015 015	2640	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	15	POLL 015 015	2640	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	80
+LEE	Lee	9547	11/06/2012	2012 General Election	16	POLL 016 016	2274	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1017
+LEE	Lee	9547	11/06/2012	2012 General Election	16	POLL 016 016	2274	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	729
+LEE	Lee	9547	11/06/2012	2012 General Election	16	POLL 016 016	2274	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	19
+LEE	Lee	9547	11/06/2012	2012 General Election	16	POLL 016 016	2274	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	16	POLL 016 016	2274	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	80
+LEE	Lee	9547	11/06/2012	2012 General Election	17	POLL 017 017	346	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	190
+LEE	Lee	9547	11/06/2012	2012 General Election	17	POLL 017 017	346	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	68
+LEE	Lee	9547	11/06/2012	2012 General Election	17	POLL 017 017	346	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	3
+LEE	Lee	9547	11/06/2012	2012 General Election	17	POLL 017 017	346	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	17	POLL 017 017	346	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	10
+LEE	Lee	9547	11/06/2012	2012 General Election	18	POLL 018 018	1118	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	695
+LEE	Lee	9547	11/06/2012	2012 General Election	18	POLL 018 018	1118	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	162
+LEE	Lee	9547	11/06/2012	2012 General Election	18	POLL 018 018	1118	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	8
+LEE	Lee	9547	11/06/2012	2012 General Election	18	POLL 018 018	1118	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	18	POLL 018 018	1118	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	53
+LEE	Lee	9547	11/06/2012	2012 General Election	19	POLL 019 019	1334	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	432
+LEE	Lee	9547	11/06/2012	2012 General Election	19	POLL 019 019	1334	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	307
+LEE	Lee	9547	11/06/2012	2012 General Election	19	POLL 019 019	1334	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	15
+LEE	Lee	9547	11/06/2012	2012 General Election	19	POLL 019 019	1334	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	19	POLL 019 019	1334	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	44
+LEE	Lee	9547	11/06/2012	2012 General Election	20	POLL 020 020	3179	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1108
+LEE	Lee	9547	11/06/2012	2012 General Election	20	POLL 020 020	3179	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	898
+LEE	Lee	9547	11/06/2012	2012 General Election	20	POLL 020 020	3179	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	53
+LEE	Lee	9547	11/06/2012	2012 General Election	20	POLL 020 020	3179	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	20	POLL 020 020	3179	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	153
+LEE	Lee	9547	11/06/2012	2012 General Election	21	POLL 021 021	2215	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	958
+LEE	Lee	9547	11/06/2012	2012 General Election	21	POLL 021 021	2215	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	536
+LEE	Lee	9547	11/06/2012	2012 General Election	21	POLL 021 021	2215	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	45
+LEE	Lee	9547	11/06/2012	2012 General Election	21	POLL 021 021	2215	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	9547	11/06/2012	2012 General Election	21	POLL 021 021	2215	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	66
+LEE	Lee	9547	11/06/2012	2012 General Election	22	POLL 022 022	2931	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1286
+LEE	Lee	9547	11/06/2012	2012 General Election	22	POLL 022 022	2931	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	646
+LEE	Lee	9547	11/06/2012	2012 General Election	22	POLL 022 022	2931	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	47
+LEE	Lee	9547	11/06/2012	2012 General Election	22	POLL 022 022	2931	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	22	POLL 022 022	2931	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	112
+LEE	Lee	9547	11/06/2012	2012 General Election	23	POLL 023 023	2481	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1093
+LEE	Lee	9547	11/06/2012	2012 General Election	23	POLL 023 023	2481	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	558
+LEE	Lee	9547	11/06/2012	2012 General Election	23	POLL 023 023	2481	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	47
+LEE	Lee	9547	11/06/2012	2012 General Election	23	POLL 023 023	2481	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	23	POLL 023 023	2481	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	102
+LEE	Lee	9547	11/06/2012	2012 General Election	24	POLL 024 024	2497	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1290
+LEE	Lee	9547	11/06/2012	2012 General Election	24	POLL 024 024	2497	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	526
+LEE	Lee	9547	11/06/2012	2012 General Election	24	POLL 024 024	2497	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	27
+LEE	Lee	9547	11/06/2012	2012 General Election	24	POLL 024 024	2497	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	24	POLL 024 024	2497	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	103
+LEE	Lee	9547	11/06/2012	2012 General Election	25	POLL 025 025	2603	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1326
+LEE	Lee	9547	11/06/2012	2012 General Election	25	POLL 025 025	2603	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	560
+LEE	Lee	9547	11/06/2012	2012 General Election	25	POLL 025 025	2603	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	33
+LEE	Lee	9547	11/06/2012	2012 General Election	25	POLL 025 025	2603	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	25	POLL 025 025	2603	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	112
+LEE	Lee	9547	11/06/2012	2012 General Election	27	POLL 027 027	2550	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1475
+LEE	Lee	9547	11/06/2012	2012 General Election	27	POLL 027 027	2550	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	463
+LEE	Lee	9547	11/06/2012	2012 General Election	27	POLL 027 027	2550	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	30
+LEE	Lee	9547	11/06/2012	2012 General Election	27	POLL 027 027	2550	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	27	POLL 027 027	2550	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	68
+LEE	Lee	9547	11/06/2012	2012 General Election	28	POLL 028 028	3358	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1183
+LEE	Lee	9547	11/06/2012	2012 General Election	28	POLL 028 028	3358	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	695
+LEE	Lee	9547	11/06/2012	2012 General Election	28	POLL 028 028	3358	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	48
+LEE	Lee	9547	11/06/2012	2012 General Election	28	POLL 028 028	3358	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	28	POLL 028 028	3358	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	71
+LEE	Lee	9547	11/06/2012	2012 General Election	29	POLL 029 029	3365	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1105
+LEE	Lee	9547	11/06/2012	2012 General Election	29	POLL 029 029	3365	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	733
+LEE	Lee	9547	11/06/2012	2012 General Election	29	POLL 029 029	3365	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	61
+LEE	Lee	9547	11/06/2012	2012 General Election	29	POLL 029 029	3365	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	29	POLL 029 029	3365	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	110
+LEE	Lee	9547	11/06/2012	2012 General Election	30	POLL 030 030	2142	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	879
+LEE	Lee	9547	11/06/2012	2012 General Election	30	POLL 030 030	2142	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	576
+LEE	Lee	9547	11/06/2012	2012 General Election	30	POLL 030 030	2142	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	40
+LEE	Lee	9547	11/06/2012	2012 General Election	30	POLL 030 030	2142	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	30	POLL 030 030	2142	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	86
+LEE	Lee	9547	11/06/2012	2012 General Election	31	POLL 031 031	3000	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1108
+LEE	Lee	9547	11/06/2012	2012 General Election	31	POLL 031 031	3000	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	791
+LEE	Lee	9547	11/06/2012	2012 General Election	31	POLL 031 031	3000	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	47
+LEE	Lee	9547	11/06/2012	2012 General Election	31	POLL 031 031	3000	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	31	POLL 031 031	3000	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	89
+LEE	Lee	9547	11/06/2012	2012 General Election	32	POLL 032 032	3959	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	552
+LEE	Lee	9547	11/06/2012	2012 General Election	32	POLL 032 032	3959	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1699
+LEE	Lee	9547	11/06/2012	2012 General Election	32	POLL 032 032	3959	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	60
+LEE	Lee	9547	11/06/2012	2012 General Election	32	POLL 032 032	3959	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	3
+LEE	Lee	9547	11/06/2012	2012 General Election	32	POLL 032 032	3959	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	183
+LEE	Lee	9547	11/06/2012	2012 General Election	33	POLL 033 033	2435	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1064
+LEE	Lee	9547	11/06/2012	2012 General Election	33	POLL 033 033	2435	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	579
+LEE	Lee	9547	11/06/2012	2012 General Election	33	POLL 033 033	2435	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	27
+LEE	Lee	9547	11/06/2012	2012 General Election	33	POLL 033 033	2435	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	33	POLL 033 033	2435	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	75
+LEE	Lee	9547	11/06/2012	2012 General Election	34	POLL 034 034	3647	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1292
+LEE	Lee	9547	11/06/2012	2012 General Election	34	POLL 034 034	3647	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	906
+LEE	Lee	9547	11/06/2012	2012 General Election	34	POLL 034 034	3647	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	57
+LEE	Lee	9547	11/06/2012	2012 General Election	34	POLL 034 034	3647	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	34	POLL 034 034	3647	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	123
+LEE	Lee	9547	11/06/2012	2012 General Election	35	POLL 035 035	3651	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1498
+LEE	Lee	9547	11/06/2012	2012 General Election	35	POLL 035 035	3651	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	852
+LEE	Lee	9547	11/06/2012	2012 General Election	35	POLL 035 035	3651	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	48
+LEE	Lee	9547	11/06/2012	2012 General Election	35	POLL 035 035	3651	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	35	POLL 035 035	3651	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	129
+LEE	Lee	9547	11/06/2012	2012 General Election	36	POLL 036 036	4226	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2245
+LEE	Lee	9547	11/06/2012	2012 General Election	36	POLL 036 036	4226	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1013
+LEE	Lee	9547	11/06/2012	2012 General Election	36	POLL 036 036	4226	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	57
+LEE	Lee	9547	11/06/2012	2012 General Election	36	POLL 036 036	4226	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	36	POLL 036 036	4226	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	158
+LEE	Lee	9547	11/06/2012	2012 General Election	40	POLL 040 040	2682	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1519
+LEE	Lee	9547	11/06/2012	2012 General Election	40	POLL 040 040	2682	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	551
+LEE	Lee	9547	11/06/2012	2012 General Election	40	POLL 040 040	2682	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	29
+LEE	Lee	9547	11/06/2012	2012 General Election	40	POLL 040 040	2682	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	40	POLL 040 040	2682	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	107
+LEE	Lee	9547	11/06/2012	2012 General Election	41	POLL 041 041	2072	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	918
+LEE	Lee	9547	11/06/2012	2012 General Election	41	POLL 041 041	2072	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	512
+LEE	Lee	9547	11/06/2012	2012 General Election	41	POLL 041 041	2072	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	32
+LEE	Lee	9547	11/06/2012	2012 General Election	41	POLL 041 041	2072	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	41	POLL 041 041	2072	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	82
+LEE	Lee	9547	11/06/2012	2012 General Election	42	POLL 042 042	4138	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	911
+LEE	Lee	9547	11/06/2012	2012 General Election	42	POLL 042 042	4138	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1302
+LEE	Lee	9547	11/06/2012	2012 General Election	42	POLL 042 042	4138	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	98
+LEE	Lee	9547	11/06/2012	2012 General Election	42	POLL 042 042	4138	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	4
+LEE	Lee	9547	11/06/2012	2012 General Election	42	POLL 042 042	4138	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	126
+LEE	Lee	9547	11/06/2012	2012 General Election	43	POLL 043 043	2896	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2114
+LEE	Lee	9547	11/06/2012	2012 General Election	43	POLL 043 043	2896	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	380
+LEE	Lee	9547	11/06/2012	2012 General Election	43	POLL 043 043	2896	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	10
+LEE	Lee	9547	11/06/2012	2012 General Election	43	POLL 043 043	2896	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	43	POLL 043 043	2896	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	87
+LEE	Lee	9547	11/06/2012	2012 General Election	44	POLL 044 044	2988	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1385
+LEE	Lee	9547	11/06/2012	2012 General Election	44	POLL 044 044	2988	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	709
+LEE	Lee	9547	11/06/2012	2012 General Election	44	POLL 044 044	2988	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	38
+LEE	Lee	9547	11/06/2012	2012 General Election	44	POLL 044 044	2988	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	44	POLL 044 044	2988	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	97
+LEE	Lee	9547	11/06/2012	2012 General Election	45	POLL 045 045	2392	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1070
+LEE	Lee	9547	11/06/2012	2012 General Election	45	POLL 045 045	2392	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	512
+LEE	Lee	9547	11/06/2012	2012 General Election	45	POLL 045 045	2392	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	54
+LEE	Lee	9547	11/06/2012	2012 General Election	45	POLL 045 045	2392	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	45	POLL 045 045	2392	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	76
+LEE	Lee	9547	11/06/2012	2012 General Election	46	POLL 046 046	3983	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1399
+LEE	Lee	9547	11/06/2012	2012 General Election	46	POLL 046 046	3983	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1254
+LEE	Lee	9547	11/06/2012	2012 General Election	46	POLL 046 046	3983	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	90
+LEE	Lee	9547	11/06/2012	2012 General Election	46	POLL 046 046	3983	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	46	POLL 046 046	3983	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	144
+LEE	Lee	9547	11/06/2012	2012 General Election	47	POLL 047 047	4254	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1299
+LEE	Lee	9547	11/06/2012	2012 General Election	47	POLL 047 047	4254	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1241
+LEE	Lee	9547	11/06/2012	2012 General Election	47	POLL 047 047	4254	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	61
+LEE	Lee	9547	11/06/2012	2012 General Election	47	POLL 047 047	4254	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	3
+LEE	Lee	9547	11/06/2012	2012 General Election	47	POLL 047 047	4254	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	171
+LEE	Lee	9547	11/06/2012	2012 General Election	48	POLL 048 048	3547	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1223
+LEE	Lee	9547	11/06/2012	2012 General Election	48	POLL 048 048	3547	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1067
+LEE	Lee	9547	11/06/2012	2012 General Election	48	POLL 048 048	3547	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	71
+LEE	Lee	9547	11/06/2012	2012 General Election	48	POLL 048 048	3547	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	48	POLL 048 048	3547	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	114
+LEE	Lee	9547	11/06/2012	2012 General Election	49	POLL 049 049	2972	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1377
+LEE	Lee	9547	11/06/2012	2012 General Election	49	POLL 049 049	2972	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	601
+LEE	Lee	9547	11/06/2012	2012 General Election	49	POLL 049 049	2972	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	35
+LEE	Lee	9547	11/06/2012	2012 General Election	49	POLL 049 049	2972	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	49	POLL 049 049	2972	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	114
+LEE	Lee	9547	11/06/2012	2012 General Election	50	POLL 050 050	3153	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	864
+LEE	Lee	9547	11/06/2012	2012 General Election	50	POLL 050 050	3153	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	913
+LEE	Lee	9547	11/06/2012	2012 General Election	50	POLL 050 050	3153	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	61
+LEE	Lee	9547	11/06/2012	2012 General Election	50	POLL 050 050	3153	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	50	POLL 050 050	3153	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	101
+LEE	Lee	9547	11/06/2012	2012 General Election	51	POLL 051 051	3731	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	716
+LEE	Lee	9547	11/06/2012	2012 General Election	51	POLL 051 051	3731	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1302
+LEE	Lee	9547	11/06/2012	2012 General Election	51	POLL 051 051	3731	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	80
+LEE	Lee	9547	11/06/2012	2012 General Election	51	POLL 051 051	3731	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	51	POLL 051 051	3731	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	147
+LEE	Lee	9547	11/06/2012	2012 General Election	52	POLL 052 052	3677	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	894
+LEE	Lee	9547	11/06/2012	2012 General Election	52	POLL 052 052	3677	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1118
+LEE	Lee	9547	11/06/2012	2012 General Election	52	POLL 052 052	3677	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	65
+LEE	Lee	9547	11/06/2012	2012 General Election	52	POLL 052 052	3677	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	3
+LEE	Lee	9547	11/06/2012	2012 General Election	52	POLL 052 052	3677	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	199
+LEE	Lee	9547	11/06/2012	2012 General Election	53	POLL 053 053	3566	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	869
+LEE	Lee	9547	11/06/2012	2012 General Election	53	POLL 053 053	3566	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	962
+LEE	Lee	9547	11/06/2012	2012 General Election	53	POLL 053 053	3566	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	69
+LEE	Lee	9547	11/06/2012	2012 General Election	53	POLL 053 053	3566	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	3
+LEE	Lee	9547	11/06/2012	2012 General Election	53	POLL 053 053	3566	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	112
+LEE	Lee	9547	11/06/2012	2012 General Election	55	POLL 055 055	3904	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1495
+LEE	Lee	9547	11/06/2012	2012 General Election	55	POLL 055 055	3904	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	954
+LEE	Lee	9547	11/06/2012	2012 General Election	55	POLL 055 055	3904	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	56
+LEE	Lee	9547	11/06/2012	2012 General Election	55	POLL 055 055	3904	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	55	POLL 055 055	3904	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	119
+LEE	Lee	9547	11/06/2012	2012 General Election	56	POLL 056 056	3115	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	916
+LEE	Lee	9547	11/06/2012	2012 General Election	56	POLL 056 056	3115	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	790
+LEE	Lee	9547	11/06/2012	2012 General Election	56	POLL 056 056	3115	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	47
+LEE	Lee	9547	11/06/2012	2012 General Election	56	POLL 056 056	3115	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	56	POLL 056 056	3115	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	91
+LEE	Lee	9547	11/06/2012	2012 General Election	57	POLL 057 057	3880	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1939
+LEE	Lee	9547	11/06/2012	2012 General Election	57	POLL 057 057	3880	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	789
+LEE	Lee	9547	11/06/2012	2012 General Election	57	POLL 057 057	3880	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	45
+LEE	Lee	9547	11/06/2012	2012 General Election	57	POLL 057 057	3880	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	57	POLL 057 057	3880	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	102
+LEE	Lee	9547	11/06/2012	2012 General Election	58	POLL 058 058	2934	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	810
+LEE	Lee	9547	11/06/2012	2012 General Election	58	POLL 058 058	2934	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	918
+LEE	Lee	9547	11/06/2012	2012 General Election	58	POLL 058 058	2934	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	62
+LEE	Lee	9547	11/06/2012	2012 General Election	58	POLL 058 058	2934	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	58	POLL 058 058	2934	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	102
+LEE	Lee	9547	11/06/2012	2012 General Election	59	POLL 059 059	3505	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1004
+LEE	Lee	9547	11/06/2012	2012 General Election	59	POLL 059 059	3505	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	945
+LEE	Lee	9547	11/06/2012	2012 General Election	59	POLL 059 059	3505	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	58
+LEE	Lee	9547	11/06/2012	2012 General Election	59	POLL 059 059	3505	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	9547	11/06/2012	2012 General Election	59	POLL 059 059	3505	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	115
+LEE	Lee	9547	11/06/2012	2012 General Election	60	POLL 060 060	2467	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1205
+LEE	Lee	9547	11/06/2012	2012 General Election	60	POLL 060 060	2467	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	507
+LEE	Lee	9547	11/06/2012	2012 General Election	60	POLL 060 060	2467	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	19
+LEE	Lee	9547	11/06/2012	2012 General Election	60	POLL 060 060	2467	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	60	POLL 060 060	2467	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	91
+LEE	Lee	9547	11/06/2012	2012 General Election	61	POLL 061 061	3201	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1040
+LEE	Lee	9547	11/06/2012	2012 General Election	61	POLL 061 061	3201	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	852
+LEE	Lee	9547	11/06/2012	2012 General Election	61	POLL 061 061	3201	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	34
+LEE	Lee	9547	11/06/2012	2012 General Election	61	POLL 061 061	3201	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	9547	11/06/2012	2012 General Election	61	POLL 061 061	3201	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	160
+LEE	Lee	9547	11/06/2012	2012 General Election	62	POLL 062 062	2757	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1048
+LEE	Lee	9547	11/06/2012	2012 General Election	62	POLL 062 062	2757	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	645
+LEE	Lee	9547	11/06/2012	2012 General Election	62	POLL 062 062	2757	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	43
+LEE	Lee	9547	11/06/2012	2012 General Election	62	POLL 062 062	2757	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	62	POLL 062 062	2757	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	101
+LEE	Lee	9547	11/06/2012	2012 General Election	63	POLL 063 063	3084	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1126
+LEE	Lee	9547	11/06/2012	2012 General Election	63	POLL 063 063	3084	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	698
+LEE	Lee	9547	11/06/2012	2012 General Election	63	POLL 063 063	3084	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	75
+LEE	Lee	9547	11/06/2012	2012 General Election	63	POLL 063 063	3084	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	63	POLL 063 063	3084	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	79
+LEE	Lee	9547	11/06/2012	2012 General Election	64	POLL 064 064	3622	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1751
+LEE	Lee	9547	11/06/2012	2012 General Election	64	POLL 064 064	3622	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	818
+LEE	Lee	9547	11/06/2012	2012 General Election	64	POLL 064 064	3622	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	68
+LEE	Lee	9547	11/06/2012	2012 General Election	64	POLL 064 064	3622	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	9547	11/06/2012	2012 General Election	64	POLL 064 064	3622	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	105
+LEE	Lee	9547	11/06/2012	2012 General Election	66	POLL 066 066	2282	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	791
+LEE	Lee	9547	11/06/2012	2012 General Election	66	POLL 066 066	2282	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	524
+LEE	Lee	9547	11/06/2012	2012 General Election	66	POLL 066 066	2282	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	49
+LEE	Lee	9547	11/06/2012	2012 General Election	66	POLL 066 066	2282	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	66	POLL 066 066	2282	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	187
+LEE	Lee	9547	11/06/2012	2012 General Election	69	POLL 069 069	2667	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1218
+LEE	Lee	9547	11/06/2012	2012 General Election	69	POLL 069 069	2667	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	492
+LEE	Lee	9547	11/06/2012	2012 General Election	69	POLL 069 069	2667	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	34
+LEE	Lee	9547	11/06/2012	2012 General Election	69	POLL 069 069	2667	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	69	POLL 069 069	2667	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	124
+LEE	Lee	9547	11/06/2012	2012 General Election	70	POLL 070 070	3582	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1672
+LEE	Lee	9547	11/06/2012	2012 General Election	70	POLL 070 070	3582	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	929
+LEE	Lee	9547	11/06/2012	2012 General Election	70	POLL 070 070	3582	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	39
+LEE	Lee	9547	11/06/2012	2012 General Election	70	POLL 070 070	3582	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	9547	11/06/2012	2012 General Election	70	POLL 070 070	3582	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	109
+LEE	Lee	9547	11/06/2012	2012 General Election	71	POLL 071 071	2572	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1126
+LEE	Lee	9547	11/06/2012	2012 General Election	71	POLL 071 071	2572	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	728
+LEE	Lee	9547	11/06/2012	2012 General Election	71	POLL 071 071	2572	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	36
+LEE	Lee	9547	11/06/2012	2012 General Election	71	POLL 071 071	2572	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	9547	11/06/2012	2012 General Election	71	POLL 071 071	2572	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	94
+LEE	Lee	9547	11/06/2012	2012 General Election	72	POLL 072 072	2943	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1452
+LEE	Lee	9547	11/06/2012	2012 General Election	72	POLL 072 072	2943	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	649
+LEE	Lee	9547	11/06/2012	2012 General Election	72	POLL 072 072	2943	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	48
+LEE	Lee	9547	11/06/2012	2012 General Election	72	POLL 072 072	2943	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	72	POLL 072 072	2943	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	87
+LEE	Lee	9547	11/06/2012	2012 General Election	73	POLL 073 073	3804	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1488
+LEE	Lee	9547	11/06/2012	2012 General Election	73	POLL 073 073	3804	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1032
+LEE	Lee	9547	11/06/2012	2012 General Election	73	POLL 073 073	3804	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	71
+LEE	Lee	9547	11/06/2012	2012 General Election	73	POLL 073 073	3804	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	73	POLL 073 073	3804	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	147
+LEE	Lee	9547	11/06/2012	2012 General Election	74	POLL 074 074	3496	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1555
+LEE	Lee	9547	11/06/2012	2012 General Election	74	POLL 074 074	3496	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	807
+LEE	Lee	9547	11/06/2012	2012 General Election	74	POLL 074 074	3496	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	37
+LEE	Lee	9547	11/06/2012	2012 General Election	74	POLL 074 074	3496	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	74	POLL 074 074	3496	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	104
+LEE	Lee	9547	11/06/2012	2012 General Election	75	POLL 075 075	3966	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1897
+LEE	Lee	9547	11/06/2012	2012 General Election	75	POLL 075 075	3966	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	896
+LEE	Lee	9547	11/06/2012	2012 General Election	75	POLL 075 075	3966	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	67
+LEE	Lee	9547	11/06/2012	2012 General Election	75	POLL 075 075	3966	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	75	POLL 075 075	3966	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	119
+LEE	Lee	9547	11/06/2012	2012 General Election	76	POLL 076 076	2088	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	944
+LEE	Lee	9547	11/06/2012	2012 General Election	76	POLL 076 076	2088	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	461
+LEE	Lee	9547	11/06/2012	2012 General Election	76	POLL 076 076	2088	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	24
+LEE	Lee	9547	11/06/2012	2012 General Election	76	POLL 076 076	2088	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	76	POLL 076 076	2088	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	71
+LEE	Lee	9547	11/06/2012	2012 General Election	79	POLL 079 079	3621	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1548
+LEE	Lee	9547	11/06/2012	2012 General Election	79	POLL 079 079	3621	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1071
+LEE	Lee	9547	11/06/2012	2012 General Election	79	POLL 079 079	3621	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	70
+LEE	Lee	9547	11/06/2012	2012 General Election	79	POLL 079 079	3621	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	9547	11/06/2012	2012 General Election	79	POLL 079 079	3621	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	141
+LEE	Lee	9547	11/06/2012	2012 General Election	80	POLL 080 080	2016	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1046
+LEE	Lee	9547	11/06/2012	2012 General Election	80	POLL 080 080	2016	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	429
+LEE	Lee	9547	11/06/2012	2012 General Election	80	POLL 080 080	2016	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	22
+LEE	Lee	9547	11/06/2012	2012 General Election	80	POLL 080 080	2016	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	80	POLL 080 080	2016	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	89
+LEE	Lee	9547	11/06/2012	2012 General Election	81	POLL 081 081	2449	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1196
+LEE	Lee	9547	11/06/2012	2012 General Election	81	POLL 081 081	2449	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	512
+LEE	Lee	9547	11/06/2012	2012 General Election	81	POLL 081 081	2449	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	26
+LEE	Lee	9547	11/06/2012	2012 General Election	81	POLL 081 081	2449	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	81	POLL 081 081	2449	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	102
+LEE	Lee	9547	11/06/2012	2012 General Election	82	POLL 082 082	2752	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1064
+LEE	Lee	9547	11/06/2012	2012 General Election	82	POLL 082 082	2752	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	646
+LEE	Lee	9547	11/06/2012	2012 General Election	82	POLL 082 082	2752	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	45
+LEE	Lee	9547	11/06/2012	2012 General Election	82	POLL 082 082	2752	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	82	POLL 082 082	2752	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	87
+LEE	Lee	9547	11/06/2012	2012 General Election	83	POLL 083 083	2586	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1475
+LEE	Lee	9547	11/06/2012	2012 General Election	83	POLL 083 083	2586	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	628
+LEE	Lee	9547	11/06/2012	2012 General Election	83	POLL 083 083	2586	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	26
+LEE	Lee	9547	11/06/2012	2012 General Election	83	POLL 083 083	2586	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	83	POLL 083 083	2586	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	119
+LEE	Lee	9547	11/06/2012	2012 General Election	84	POLL 084 084	3289	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1177
+LEE	Lee	9547	11/06/2012	2012 General Election	84	POLL 084 084	3289	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	810
+LEE	Lee	9547	11/06/2012	2012 General Election	84	POLL 084 084	3289	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	39
+LEE	Lee	9547	11/06/2012	2012 General Election	84	POLL 084 084	3289	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	84	POLL 084 084	3289	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	101
+LEE	Lee	9547	11/06/2012	2012 General Election	85	POLL 085 085	2416	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1082
+LEE	Lee	9547	11/06/2012	2012 General Election	85	POLL 085 085	2416	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	606
+LEE	Lee	9547	11/06/2012	2012 General Election	85	POLL 085 085	2416	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	41
+LEE	Lee	9547	11/06/2012	2012 General Election	85	POLL 085 085	2416	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	85	POLL 085 085	2416	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	74
+LEE	Lee	9547	11/06/2012	2012 General Election	86	POLL 086 086	3837	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1834
+LEE	Lee	9547	11/06/2012	2012 General Election	86	POLL 086 086	3837	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	865
+LEE	Lee	9547	11/06/2012	2012 General Election	86	POLL 086 086	3837	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	56
+LEE	Lee	9547	11/06/2012	2012 General Election	86	POLL 086 086	3837	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	86	POLL 086 086	3837	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	138
+LEE	Lee	9547	11/06/2012	2012 General Election	87	POLL 087 087	2232	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1066
+LEE	Lee	9547	11/06/2012	2012 General Election	87	POLL 087 087	2232	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	569
+LEE	Lee	9547	11/06/2012	2012 General Election	87	POLL 087 087	2232	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	37
+LEE	Lee	9547	11/06/2012	2012 General Election	87	POLL 087 087	2232	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	87	POLL 087 087	2232	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	77
+LEE	Lee	9547	11/06/2012	2012 General Election	88	POLL 088 088	2577	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1427
+LEE	Lee	9547	11/06/2012	2012 General Election	88	POLL 088 088	2577	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	540
+LEE	Lee	9547	11/06/2012	2012 General Election	88	POLL 088 088	2577	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	27
+LEE	Lee	9547	11/06/2012	2012 General Election	88	POLL 088 088	2577	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	88	POLL 088 088	2577	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	82
+LEE	Lee	9547	11/06/2012	2012 General Election	90	POLL 090 090	3139	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1489
+LEE	Lee	9547	11/06/2012	2012 General Election	90	POLL 090 090	3139	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	832
+LEE	Lee	9547	11/06/2012	2012 General Election	90	POLL 090 090	3139	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	56
+LEE	Lee	9547	11/06/2012	2012 General Election	90	POLL 090 090	3139	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	3
+LEE	Lee	9547	11/06/2012	2012 General Election	90	POLL 090 090	3139	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	100
+LEE	Lee	9547	11/06/2012	2012 General Election	91	POLL 091 091	3133	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1258
+LEE	Lee	9547	11/06/2012	2012 General Election	91	POLL 091 091	3133	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	818
+LEE	Lee	9547	11/06/2012	2012 General Election	91	POLL 091 091	3133	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	43
+LEE	Lee	9547	11/06/2012	2012 General Election	91	POLL 091 091	3133	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	91	POLL 091 091	3133	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	78
+LEE	Lee	9547	11/06/2012	2012 General Election	92	POLL 092 092	3841	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1361
+LEE	Lee	9547	11/06/2012	2012 General Election	92	POLL 092 092	3841	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1074
+LEE	Lee	9547	11/06/2012	2012 General Election	92	POLL 092 092	3841	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	58
+LEE	Lee	9547	11/06/2012	2012 General Election	92	POLL 092 092	3841	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	92	POLL 092 092	3841	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	126
+LEE	Lee	9547	11/06/2012	2012 General Election	93	POLL 093 093	3033	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1345
+LEE	Lee	9547	11/06/2012	2012 General Election	93	POLL 093 093	3033	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	614
+LEE	Lee	9547	11/06/2012	2012 General Election	93	POLL 093 093	3033	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	36
+LEE	Lee	9547	11/06/2012	2012 General Election	93	POLL 093 093	3033	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	9547	11/06/2012	2012 General Election	93	POLL 093 093	3033	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	65
+LEE	Lee	9547	11/06/2012	2012 General Election	94	POLL 094 094	3365	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1415
+LEE	Lee	9547	11/06/2012	2012 General Election	94	POLL 094 094	3365	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	735
+LEE	Lee	9547	11/06/2012	2012 General Election	94	POLL 094 094	3365	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	42
+LEE	Lee	9547	11/06/2012	2012 General Election	94	POLL 094 094	3365	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	94	POLL 094 094	3365	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	90
+LEE	Lee	9547	11/06/2012	2012 General Election	95	POLL 095 095	3857	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1370
+LEE	Lee	9547	11/06/2012	2012 General Election	95	POLL 095 095	3857	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	950
+LEE	Lee	9547	11/06/2012	2012 General Election	95	POLL 095 095	3857	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	61
+LEE	Lee	9547	11/06/2012	2012 General Election	95	POLL 095 095	3857	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	95	POLL 095 095	3857	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	113
+LEE	Lee	9547	11/06/2012	2012 General Election	96	POLL 096 096	3351	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1127
+LEE	Lee	9547	11/06/2012	2012 General Election	96	POLL 096 096	3351	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	801
+LEE	Lee	9547	11/06/2012	2012 General Election	96	POLL 096 096	3351	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	61
+LEE	Lee	9547	11/06/2012	2012 General Election	96	POLL 096 096	3351	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	9547	11/06/2012	2012 General Election	96	POLL 096 096	3351	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	94
+LEE	Lee	9547	11/06/2012	2012 General Election	97	POLL 097 097	3777	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1522
+LEE	Lee	9547	11/06/2012	2012 General Election	97	POLL 097 097	3777	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	904
+LEE	Lee	9547	11/06/2012	2012 General Election	97	POLL 097 097	3777	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	41
+LEE	Lee	9547	11/06/2012	2012 General Election	97	POLL 097 097	3777	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	97	POLL 097 097	3777	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	120
+LEE	Lee	9547	11/06/2012	2012 General Election	98	POLL 098 098	3432	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1391
+LEE	Lee	9547	11/06/2012	2012 General Election	98	POLL 098 098	3432	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	669
+LEE	Lee	9547	11/06/2012	2012 General Election	98	POLL 098 098	3432	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	47
+LEE	Lee	9547	11/06/2012	2012 General Election	98	POLL 098 098	3432	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	98	POLL 098 098	3432	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	88
+LEE	Lee	9547	11/06/2012	2012 General Election	99	POLL 099 099	3598	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1326
+LEE	Lee	9547	11/06/2012	2012 General Election	99	POLL 099 099	3598	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1004
+LEE	Lee	9547	11/06/2012	2012 General Election	99	POLL 099 099	3598	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	83
+LEE	Lee	9547	11/06/2012	2012 General Election	99	POLL 099 099	3598	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	99	POLL 099 099	3598	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	95
+LEE	Lee	9547	11/06/2012	2012 General Election	100	POLL 100 100	3056	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1234
+LEE	Lee	9547	11/06/2012	2012 General Election	100	POLL 100 100	3056	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	719
+LEE	Lee	9547	11/06/2012	2012 General Election	100	POLL 100 100	3056	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	60
+LEE	Lee	9547	11/06/2012	2012 General Election	100	POLL 100 100	3056	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	9547	11/06/2012	2012 General Election	100	POLL 100 100	3056	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	104
+LEE	Lee	9547	11/06/2012	2012 General Election	101	POLL 101 101	2847	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1424
+LEE	Lee	9547	11/06/2012	2012 General Election	101	POLL 101 101	2847	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	573
+LEE	Lee	9547	11/06/2012	2012 General Election	101	POLL 101 101	2847	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	41
+LEE	Lee	9547	11/06/2012	2012 General Election	101	POLL 101 101	2847	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	101	POLL 101 101	2847	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	86
+LEE	Lee	9547	11/06/2012	2012 General Election	102	POLL 102 102	3847	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1812
+LEE	Lee	9547	11/06/2012	2012 General Election	102	POLL 102 102	3847	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	749
+LEE	Lee	9547	11/06/2012	2012 General Election	102	POLL 102 102	3847	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	35
+LEE	Lee	9547	11/06/2012	2012 General Election	102	POLL 102 102	3847	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	3
+LEE	Lee	9547	11/06/2012	2012 General Election	102	POLL 102 102	3847	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	130
+LEE	Lee	9547	11/06/2012	2012 General Election	103	POLL 103 103	4254	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1388
+LEE	Lee	9547	11/06/2012	2012 General Election	103	POLL 103 103	4254	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	981
+LEE	Lee	9547	11/06/2012	2012 General Election	103	POLL 103 103	4254	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	71
+LEE	Lee	9547	11/06/2012	2012 General Election	103	POLL 103 103	4254	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	103	POLL 103 103	4254	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	145
+LEE	Lee	9547	11/06/2012	2012 General Election	104	POLL 104 104	3484	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1165
+LEE	Lee	9547	11/06/2012	2012 General Election	104	POLL 104 104	3484	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	748
+LEE	Lee	9547	11/06/2012	2012 General Election	104	POLL 104 104	3484	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	45
+LEE	Lee	9547	11/06/2012	2012 General Election	104	POLL 104 104	3484	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	104	POLL 104 104	3484	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	79
+LEE	Lee	9547	11/06/2012	2012 General Election	105	POLL 105 105	3363	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1096
+LEE	Lee	9547	11/06/2012	2012 General Election	105	POLL 105 105	3363	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	797
+LEE	Lee	9547	11/06/2012	2012 General Election	105	POLL 105 105	3363	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	39
+LEE	Lee	9547	11/06/2012	2012 General Election	105	POLL 105 105	3363	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	105	POLL 105 105	3363	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	82
+LEE	Lee	9547	11/06/2012	2012 General Election	106	POLL 106 106	3425	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1220
+LEE	Lee	9547	11/06/2012	2012 General Election	106	POLL 106 106	3425	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	869
+LEE	Lee	9547	11/06/2012	2012 General Election	106	POLL 106 106	3425	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	46
+LEE	Lee	9547	11/06/2012	2012 General Election	106	POLL 106 106	3425	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	106	POLL 106 106	3425	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	99
+LEE	Lee	9547	11/06/2012	2012 General Election	107	POLL 107 107	3669	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1637
+LEE	Lee	9547	11/06/2012	2012 General Election	107	POLL 107 107	3669	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	879
+LEE	Lee	9547	11/06/2012	2012 General Election	107	POLL 107 107	3669	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	55
+LEE	Lee	9547	11/06/2012	2012 General Election	107	POLL 107 107	3669	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	107	POLL 107 107	3669	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	124
+LEE	Lee	9547	11/06/2012	2012 General Election	108	POLL 108 108	3871	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1242
+LEE	Lee	9547	11/06/2012	2012 General Election	108	POLL 108 108	3871	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	938
+LEE	Lee	9547	11/06/2012	2012 General Election	108	POLL 108 108	3871	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	63
+LEE	Lee	9547	11/06/2012	2012 General Election	108	POLL 108 108	3871	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	108	POLL 108 108	3871	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	137
+LEE	Lee	9547	11/06/2012	2012 General Election	109	POLL 109 109	3694	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1219
+LEE	Lee	9547	11/06/2012	2012 General Election	109	POLL 109 109	3694	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	966
+LEE	Lee	9547	11/06/2012	2012 General Election	109	POLL 109 109	3694	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	51
+LEE	Lee	9547	11/06/2012	2012 General Election	109	POLL 109 109	3694	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	109	POLL 109 109	3694	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	114
+LEE	Lee	9547	11/06/2012	2012 General Election	110	POLL 110 110	2927	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	806
+LEE	Lee	9547	11/06/2012	2012 General Election	110	POLL 110 110	2927	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	811
+LEE	Lee	9547	11/06/2012	2012 General Election	110	POLL 110 110	2927	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	43
+LEE	Lee	9547	11/06/2012	2012 General Election	110	POLL 110 110	2927	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	110	POLL 110 110	2927	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	106
+LEE	Lee	9547	11/06/2012	2012 General Election	111	POLL 111 111	2304	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	793
+LEE	Lee	9547	11/06/2012	2012 General Election	111	POLL 111 111	2304	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	533
+LEE	Lee	9547	11/06/2012	2012 General Election	111	POLL 111 111	2304	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	23
+LEE	Lee	9547	11/06/2012	2012 General Election	111	POLL 111 111	2304	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	111	POLL 111 111	2304	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	58
+LEE	Lee	9547	11/06/2012	2012 General Election	112	POLL 112 112	3860	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1379
+LEE	Lee	9547	11/06/2012	2012 General Election	112	POLL 112 112	3860	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	943
+LEE	Lee	9547	11/06/2012	2012 General Election	112	POLL 112 112	3860	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	80
+LEE	Lee	9547	11/06/2012	2012 General Election	112	POLL 112 112	3860	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	112	POLL 112 112	3860	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	123
+LEE	Lee	9547	11/06/2012	2012 General Election	113	POLL 113 113	3100	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	925
+LEE	Lee	9547	11/06/2012	2012 General Election	113	POLL 113 113	3100	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	753
+LEE	Lee	9547	11/06/2012	2012 General Election	113	POLL 113 113	3100	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	47
+LEE	Lee	9547	11/06/2012	2012 General Election	113	POLL 113 113	3100	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	113	POLL 113 113	3100	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	94
+LEE	Lee	9547	11/06/2012	2012 General Election	114	POLL 114 114	3376	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1015
+LEE	Lee	9547	11/06/2012	2012 General Election	114	POLL 114 114	3376	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	845
+LEE	Lee	9547	11/06/2012	2012 General Election	114	POLL 114 114	3376	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	48
+LEE	Lee	9547	11/06/2012	2012 General Election	114	POLL 114 114	3376	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	114	POLL 114 114	3376	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	100
+LEE	Lee	9547	11/06/2012	2012 General Election	115	POLL 115 115	3828	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1253
+LEE	Lee	9547	11/06/2012	2012 General Election	115	POLL 115 115	3828	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	929
+LEE	Lee	9547	11/06/2012	2012 General Election	115	POLL 115 115	3828	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	62
+LEE	Lee	9547	11/06/2012	2012 General Election	115	POLL 115 115	3828	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	115	POLL 115 115	3828	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	132
+LEE	Lee	9547	11/06/2012	2012 General Election	116	POLL 116 116	3619	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1337
+LEE	Lee	9547	11/06/2012	2012 General Election	116	POLL 116 116	3619	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	905
+LEE	Lee	9547	11/06/2012	2012 General Election	116	POLL 116 116	3619	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	52
+LEE	Lee	9547	11/06/2012	2012 General Election	116	POLL 116 116	3619	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	116	POLL 116 116	3619	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	113
+LEE	Lee	9547	11/06/2012	2012 General Election	117	POLL 117 117	3378	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1367
+LEE	Lee	9547	11/06/2012	2012 General Election	117	POLL 117 117	3378	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	909
+LEE	Lee	9547	11/06/2012	2012 General Election	117	POLL 117 117	3378	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	33
+LEE	Lee	9547	11/06/2012	2012 General Election	117	POLL 117 117	3378	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	3
+LEE	Lee	9547	11/06/2012	2012 General Election	117	POLL 117 117	3378	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	101
+LEE	Lee	9547	11/06/2012	2012 General Election	118	POLL 118 118	3545	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1533
+LEE	Lee	9547	11/06/2012	2012 General Election	118	POLL 118 118	3545	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	849
+LEE	Lee	9547	11/06/2012	2012 General Election	118	POLL 118 118	3545	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	61
+LEE	Lee	9547	11/06/2012	2012 General Election	118	POLL 118 118	3545	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	118	POLL 118 118	3545	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	111
+LEE	Lee	9547	11/06/2012	2012 General Election	119	POLL 119 119	2776	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1660
+LEE	Lee	9547	11/06/2012	2012 General Election	119	POLL 119 119	2776	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	533
+LEE	Lee	9547	11/06/2012	2012 General Election	119	POLL 119 119	2776	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	43
+LEE	Lee	9547	11/06/2012	2012 General Election	119	POLL 119 119	2776	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	119	POLL 119 119	2776	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	81
+LEE	Lee	9547	11/06/2012	2012 General Election	120	POLL 120 120	3753	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1154
+LEE	Lee	9547	11/06/2012	2012 General Election	120	POLL 120 120	3753	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	798
+LEE	Lee	9547	11/06/2012	2012 General Election	120	POLL 120 120	3753	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	64
+LEE	Lee	9547	11/06/2012	2012 General Election	120	POLL 120 120	3753	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	120	POLL 120 120	3753	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	143
+LEE	Lee	9547	11/06/2012	2012 General Election	121	POLL 121 121	3591	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1554
+LEE	Lee	9547	11/06/2012	2012 General Election	121	POLL 121 121	3591	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	786
+LEE	Lee	9547	11/06/2012	2012 General Election	121	POLL 121 121	3591	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	53
+LEE	Lee	9547	11/06/2012	2012 General Election	121	POLL 121 121	3591	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	121	POLL 121 121	3591	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	160
+LEE	Lee	9547	11/06/2012	2012 General Election	122	POLL 122 122	3710	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1709
+LEE	Lee	9547	11/06/2012	2012 General Election	122	POLL 122 122	3710	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	963
+LEE	Lee	9547	11/06/2012	2012 General Election	122	POLL 122 122	3710	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	49
+LEE	Lee	9547	11/06/2012	2012 General Election	122	POLL 122 122	3710	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	9547	11/06/2012	2012 General Election	122	POLL 122 122	3710	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	177
+LEE	Lee	9547	11/06/2012	2012 General Election	123	POLL 123 123	2831	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1488
+LEE	Lee	9547	11/06/2012	2012 General Election	123	POLL 123 123	2831	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	619
+LEE	Lee	9547	11/06/2012	2012 General Election	123	POLL 123 123	2831	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	52
+LEE	Lee	9547	11/06/2012	2012 General Election	123	POLL 123 123	2831	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	123	POLL 123 123	2831	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	104
+LEE	Lee	9547	11/06/2012	2012 General Election	124	POLL 124 124	3621	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1719
+LEE	Lee	9547	11/06/2012	2012 General Election	124	POLL 124 124	3621	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	900
+LEE	Lee	9547	11/06/2012	2012 General Election	124	POLL 124 124	3621	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	49
+LEE	Lee	9547	11/06/2012	2012 General Election	124	POLL 124 124	3621	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	124	POLL 124 124	3621	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	139
+LEE	Lee	9547	11/06/2012	2012 General Election	125	POLL 125 125	3386	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2201
+LEE	Lee	9547	11/06/2012	2012 General Election	125	POLL 125 125	3386	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	611
+LEE	Lee	9547	11/06/2012	2012 General Election	125	POLL 125 125	3386	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	15
+LEE	Lee	9547	11/06/2012	2012 General Election	125	POLL 125 125	3386	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	9547	11/06/2012	2012 General Election	125	POLL 125 125	3386	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	110
+CLL	Collier	9547	11/06/2012	2012 General Election	1	PCT 101 0001	3748	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	253
+CLL	Collier	9547	11/06/2012	2012 General Election	1	PCT 101 0001	3748	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	217
+CLL	Collier	9547	11/06/2012	2012 General Election	1	PCT 101 0001	3748	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	11
+CLL	Collier	9547	11/06/2012	2012 General Election	1	PCT 101 0001	3748	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	9547	11/06/2012	2012 General Election	1	PCT 101 0001	3748	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	30
+CLL	Collier	9547	11/06/2012	2012 General Election	3	PCT 103 0003	1599	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	668
+CLL	Collier	9547	11/06/2012	2012 General Election	3	PCT 103 0003	1599	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	484
+CLL	Collier	9547	11/06/2012	2012 General Election	3	PCT 103 0003	1599	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	36
+CLL	Collier	9547	11/06/2012	2012 General Election	3	PCT 103 0003	1599	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+CLL	Collier	9547	11/06/2012	2012 General Election	3	PCT 103 0003	1599	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	75
+CLL	Collier	9547	11/06/2012	2012 General Election	4	PCT 135 0004	4401	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1197
+CLL	Collier	9547	11/06/2012	2012 General Election	4	PCT 135 0004	4401	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	718
+CLL	Collier	9547	11/06/2012	2012 General Election	4	PCT 135 0004	4401	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	41
+CLL	Collier	9547	11/06/2012	2012 General Election	4	PCT 135 0004	4401	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	4	PCT 135 0004	4401	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	125
+CLL	Collier	9547	11/06/2012	2012 General Election	5	PCT 139 0005	2410	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	368
+CLL	Collier	9547	11/06/2012	2012 General Election	5	PCT 139 0005	2410	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	240
+CLL	Collier	9547	11/06/2012	2012 General Election	5	PCT 139 0005	2410	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	6
+CLL	Collier	9547	11/06/2012	2012 General Election	5	PCT 139 0005	2410	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	5	PCT 139 0005	2410	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	37
+CLL	Collier	9547	11/06/2012	2012 General Election	6	PCT 141 0006	1527	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	748
+CLL	Collier	9547	11/06/2012	2012 General Election	6	PCT 141 0006	1527	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	423
+CLL	Collier	9547	11/06/2012	2012 General Election	6	PCT 141 0006	1527	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	40
+CLL	Collier	9547	11/06/2012	2012 General Election	6	PCT 141 0006	1527	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	6	PCT 141 0006	1527	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	70
+CLL	Collier	9547	11/06/2012	2012 General Election	7	PCT 142 0007	1413	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	746
+CLL	Collier	9547	11/06/2012	2012 General Election	7	PCT 142 0007	1413	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	307
+CLL	Collier	9547	11/06/2012	2012 General Election	7	PCT 142 0007	1413	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	27
+CLL	Collier	9547	11/06/2012	2012 General Election	7	PCT 142 0007	1413	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	9547	11/06/2012	2012 General Election	7	PCT 142 0007	1413	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	72
+CLL	Collier	9547	11/06/2012	2012 General Election	9	PCT 150 0009	152	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	58
+CLL	Collier	9547	11/06/2012	2012 General Election	9	PCT 150 0009	152	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	39
+CLL	Collier	9547	11/06/2012	2012 General Election	9	PCT 150 0009	152	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	0
+CLL	Collier	9547	11/06/2012	2012 General Election	9	PCT 150 0009	152	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	9	PCT 150 0009	152	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	9
+CLL	Collier	9547	11/06/2012	2012 General Election	10	PCT 155 0010	2545	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1547
+CLL	Collier	9547	11/06/2012	2012 General Election	10	PCT 155 0010	2545	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	570
+CLL	Collier	9547	11/06/2012	2012 General Election	10	PCT 155 0010	2545	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	22
+CLL	Collier	9547	11/06/2012	2012 General Election	10	PCT 155 0010	2545	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	10	PCT 155 0010	2545	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	117
+CLL	Collier	9547	11/06/2012	2012 General Election	11	PCT 156 0011	2315	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1155
+CLL	Collier	9547	11/06/2012	2012 General Election	11	PCT 156 0011	2315	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	643
+CLL	Collier	9547	11/06/2012	2012 General Election	11	PCT 156 0011	2315	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	41
+CLL	Collier	9547	11/06/2012	2012 General Election	11	PCT 156 0011	2315	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	11	PCT 156 0011	2315	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	102
+CLL	Collier	9547	11/06/2012	2012 General Election	12	PCT 157 0012	1615	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	270
+CLL	Collier	9547	11/06/2012	2012 General Election	12	PCT 157 0012	1615	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	760
+CLL	Collier	9547	11/06/2012	2012 General Election	12	PCT 157 0012	1615	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	27
+CLL	Collier	9547	11/06/2012	2012 General Election	12	PCT 157 0012	1615	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	12	PCT 157 0012	1615	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	112
+CLL	Collier	9547	11/06/2012	2012 General Election	13	PCT 159 0013	1139	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	729
+CLL	Collier	9547	11/06/2012	2012 General Election	13	PCT 159 0013	1139	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	226
+CLL	Collier	9547	11/06/2012	2012 General Election	13	PCT 159 0013	1139	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	10
+CLL	Collier	9547	11/06/2012	2012 General Election	13	PCT 159 0013	1139	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	13	PCT 159 0013	1139	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	52
+CLL	Collier	9547	11/06/2012	2012 General Election	14	PCT 189 0014	254	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	109
+CLL	Collier	9547	11/06/2012	2012 General Election	14	PCT 189 0014	254	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	81
+CLL	Collier	9547	11/06/2012	2012 General Election	14	PCT 189 0014	254	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	5
+CLL	Collier	9547	11/06/2012	2012 General Election	14	PCT 189 0014	254	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	14	PCT 189 0014	254	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	9
+CLL	Collier	9547	11/06/2012	2012 General Election	15	PCT 190 0015	3379	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2150
+CLL	Collier	9547	11/06/2012	2012 General Election	15	PCT 190 0015	3379	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	599
+CLL	Collier	9547	11/06/2012	2012 General Election	15	PCT 190 0015	3379	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	48
+CLL	Collier	9547	11/06/2012	2012 General Election	15	PCT 190 0015	3379	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	15	PCT 190 0015	3379	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	171
+CLL	Collier	9547	11/06/2012	2012 General Election	16	PCT 193 0016	5337	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	3375
+CLL	Collier	9547	11/06/2012	2012 General Election	16	PCT 193 0016	5337	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	945
+CLL	Collier	9547	11/06/2012	2012 General Election	16	PCT 193 0016	5337	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	80
+CLL	Collier	9547	11/06/2012	2012 General Election	16	PCT 193 0016	5337	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	16	PCT 193 0016	5337	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	246
+CLL	Collier	9547	11/06/2012	2012 General Election	17	PCT 194 0017	3705	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2483
+CLL	Collier	9547	11/06/2012	2012 General Election	17	PCT 194 0017	3705	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	636
+CLL	Collier	9547	11/06/2012	2012 General Election	17	PCT 194 0017	3705	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	43
+CLL	Collier	9547	11/06/2012	2012 General Election	17	PCT 194 0017	3705	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	17	PCT 194 0017	3705	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	157
+CLL	Collier	9547	11/06/2012	2012 General Election	18	PCT 202 0018	5525	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	3196
+CLL	Collier	9547	11/06/2012	2012 General Election	18	PCT 202 0018	5525	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1236
+CLL	Collier	9547	11/06/2012	2012 General Election	18	PCT 202 0018	5525	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	79
+CLL	Collier	9547	11/06/2012	2012 General Election	18	PCT 202 0018	5525	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	18	PCT 202 0018	5525	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	229
+CLL	Collier	9547	11/06/2012	2012 General Election	19	PCT 203 0019	3254	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1905
+CLL	Collier	9547	11/06/2012	2012 General Election	19	PCT 203 0019	3254	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	779
+CLL	Collier	9547	11/06/2012	2012 General Election	19	PCT 203 0019	3254	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	49
+CLL	Collier	9547	11/06/2012	2012 General Election	19	PCT 203 0019	3254	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	19	PCT 203 0019	3254	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	135
+CLL	Collier	9547	11/06/2012	2012 General Election	20	PCT 205 0020	1909	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	992
+CLL	Collier	9547	11/06/2012	2012 General Election	20	PCT 205 0020	1909	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	504
+CLL	Collier	9547	11/06/2012	2012 General Election	20	PCT 205 0020	1909	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	27
+CLL	Collier	9547	11/06/2012	2012 General Election	20	PCT 205 0020	1909	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+CLL	Collier	9547	11/06/2012	2012 General Election	20	PCT 205 0020	1909	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	91
+CLL	Collier	9547	11/06/2012	2012 General Election	21	PCT 221 0021	2451	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1413
+CLL	Collier	9547	11/06/2012	2012 General Election	21	PCT 221 0021	2451	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	615
+CLL	Collier	9547	11/06/2012	2012 General Election	21	PCT 221 0021	2451	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	27
+CLL	Collier	9547	11/06/2012	2012 General Election	21	PCT 221 0021	2451	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	21	PCT 221 0021	2451	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	91
+CLL	Collier	9547	11/06/2012	2012 General Election	22	PCT 222 0022	1965	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1181
+CLL	Collier	9547	11/06/2012	2012 General Election	22	PCT 222 0022	1965	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	419
+CLL	Collier	9547	11/06/2012	2012 General Election	22	PCT 222 0022	1965	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	30
+CLL	Collier	9547	11/06/2012	2012 General Election	22	PCT 222 0022	1965	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	22	PCT 222 0022	1965	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	112
+CLL	Collier	9547	11/06/2012	2012 General Election	23	PCT 223 0023	5575	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2611
+CLL	Collier	9547	11/06/2012	2012 General Election	23	PCT 223 0023	5575	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1473
+CLL	Collier	9547	11/06/2012	2012 General Election	23	PCT 223 0023	5575	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	106
+CLL	Collier	9547	11/06/2012	2012 General Election	23	PCT 223 0023	5575	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	9547	11/06/2012	2012 General Election	23	PCT 223 0023	5575	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	247
+CLL	Collier	9547	11/06/2012	2012 General Election	25	PCT 251 0025	5800	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2466
+CLL	Collier	9547	11/06/2012	2012 General Election	25	PCT 251 0025	5800	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1386
+CLL	Collier	9547	11/06/2012	2012 General Election	25	PCT 251 0025	5800	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	75
+CLL	Collier	9547	11/06/2012	2012 General Election	25	PCT 251 0025	5800	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+CLL	Collier	9547	11/06/2012	2012 General Election	25	PCT 251 0025	5800	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	256
+CLL	Collier	9547	11/06/2012	2012 General Election	26	PCT 252 0026	2247	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1493
+CLL	Collier	9547	11/06/2012	2012 General Election	26	PCT 252 0026	2247	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	424
+CLL	Collier	9547	11/06/2012	2012 General Election	26	PCT 252 0026	2247	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	21
+CLL	Collier	9547	11/06/2012	2012 General Election	26	PCT 252 0026	2247	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	26	PCT 252 0026	2247	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	109
+CLL	Collier	9547	11/06/2012	2012 General Election	27	PCT 255 0027	5404	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	3614
+CLL	Collier	9547	11/06/2012	2012 General Election	27	PCT 255 0027	5404	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1076
+CLL	Collier	9547	11/06/2012	2012 General Election	27	PCT 255 0027	5404	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	33
+CLL	Collier	9547	11/06/2012	2012 General Election	27	PCT 255 0027	5404	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	27	PCT 255 0027	5404	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	265
+CLL	Collier	9547	11/06/2012	2012 General Election	28	PCT 257 0028	3093	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1717
+CLL	Collier	9547	11/06/2012	2012 General Election	28	PCT 257 0028	3093	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	742
+CLL	Collier	9547	11/06/2012	2012 General Election	28	PCT 257 0028	3093	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	54
+CLL	Collier	9547	11/06/2012	2012 General Election	28	PCT 257 0028	3093	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	28	PCT 257 0028	3093	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	138
+CLL	Collier	9547	11/06/2012	2012 General Election	29	PCT 258 0029	4955	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2532
+CLL	Collier	9547	11/06/2012	2012 General Election	29	PCT 258 0029	4955	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1266
+CLL	Collier	9547	11/06/2012	2012 General Election	29	PCT 258 0029	4955	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	85
+CLL	Collier	9547	11/06/2012	2012 General Election	29	PCT 258 0029	4955	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+CLL	Collier	9547	11/06/2012	2012 General Election	29	PCT 258 0029	4955	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	235
+CLL	Collier	9547	11/06/2012	2012 General Election	39	PCT 414 0039	2409	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1106
+CLL	Collier	9547	11/06/2012	2012 General Election	39	PCT 414 0039	2409	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	664
+CLL	Collier	9547	11/06/2012	2012 General Election	39	PCT 414 0039	2409	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	49
+CLL	Collier	9547	11/06/2012	2012 General Election	39	PCT 414 0039	2409	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	9547	11/06/2012	2012 General Election	39	PCT 414 0039	2409	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	125
+CLL	Collier	9547	11/06/2012	2012 General Election	40	PCT 416 0040	782	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	500
+CLL	Collier	9547	11/06/2012	2012 General Election	40	PCT 416 0040	782	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	146
+CLL	Collier	9547	11/06/2012	2012 General Election	40	PCT 416 0040	782	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	11
+CLL	Collier	9547	11/06/2012	2012 General Election	40	PCT 416 0040	782	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	40	PCT 416 0040	782	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	39
+CLL	Collier	9547	11/06/2012	2012 General Election	41	PCT 418 0041	5264	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2983
+CLL	Collier	9547	11/06/2012	2012 General Election	41	PCT 418 0041	5264	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1204
+CLL	Collier	9547	11/06/2012	2012 General Election	41	PCT 418 0041	5264	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	73
+CLL	Collier	9547	11/06/2012	2012 General Election	41	PCT 418 0041	5264	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	41	PCT 418 0041	5264	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	278
+CLL	Collier	9547	11/06/2012	2012 General Election	42	PCT 428 0042	2136	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	607
+CLL	Collier	9547	11/06/2012	2012 General Election	42	PCT 428 0042	2136	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	292
+CLL	Collier	9547	11/06/2012	2012 General Election	42	PCT 428 0042	2136	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	25
+CLL	Collier	9547	11/06/2012	2012 General Election	42	PCT 428 0042	2136	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	42	PCT 428 0042	2136	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	49
+CLL	Collier	9547	11/06/2012	2012 General Election	43	PCT 430 0043	3039	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	526
+CLL	Collier	9547	11/06/2012	2012 General Election	43	PCT 430 0043	3039	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	399
+CLL	Collier	9547	11/06/2012	2012 General Election	43	PCT 430 0043	3039	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	30
+CLL	Collier	9547	11/06/2012	2012 General Election	43	PCT 430 0043	3039	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	43	PCT 430 0043	3039	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	51
+CLL	Collier	9547	11/06/2012	2012 General Election	45	PCT 434 0045	3603	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1521
+CLL	Collier	9547	11/06/2012	2012 General Election	45	PCT 434 0045	3603	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	938
+CLL	Collier	9547	11/06/2012	2012 General Election	45	PCT 434 0045	3603	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	95
+CLL	Collier	9547	11/06/2012	2012 General Election	45	PCT 434 0045	3603	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	45	PCT 434 0045	3603	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	182
+CLL	Collier	9547	11/06/2012	2012 General Election	47	PCT 440 0047	3026	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	0
+CLL	Collier	9547	11/06/2012	2012 General Election	47	PCT 440 0047	3026	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	1
+CLL	Collier	9547	11/06/2012	2012 General Election	47	PCT 440 0047	3026	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	0
+CLL	Collier	9547	11/06/2012	2012 General Election	47	PCT 440 0047	3026	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	47	PCT 440 0047	3026	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	0
+CLL	Collier	9547	11/06/2012	2012 General Election	48	PCT 462 0048	3330	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2269
+CLL	Collier	9547	11/06/2012	2012 General Election	48	PCT 462 0048	3330	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	584
+CLL	Collier	9547	11/06/2012	2012 General Election	48	PCT 462 0048	3330	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	33
+CLL	Collier	9547	11/06/2012	2012 General Election	48	PCT 462 0048	3330	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	9547	11/06/2012	2012 General Election	48	PCT 462 0048	3330	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	142
+CLL	Collier	9547	11/06/2012	2012 General Election	49	PCT 464 0049	3907	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2523
+CLL	Collier	9547	11/06/2012	2012 General Election	49	PCT 464 0049	3907	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	801
+CLL	Collier	9547	11/06/2012	2012 General Election	49	PCT 464 0049	3907	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	42
+CLL	Collier	9547	11/06/2012	2012 General Election	49	PCT 464 0049	3907	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	49	PCT 464 0049	3907	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	159
+CLL	Collier	9547	11/06/2012	2012 General Election	50	PCT 472 0050	424	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	115
+CLL	Collier	9547	11/06/2012	2012 General Election	50	PCT 472 0050	424	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	190
+CLL	Collier	9547	11/06/2012	2012 General Election	50	PCT 472 0050	424	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	6
+CLL	Collier	9547	11/06/2012	2012 General Election	50	PCT 472 0050	424	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	2
+CLL	Collier	9547	11/06/2012	2012 General Election	50	PCT 472 0050	424	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	28
+CLL	Collier	9547	11/06/2012	2012 General Election	51	PCT 475 0051	1106	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	715
+CLL	Collier	9547	11/06/2012	2012 General Election	51	PCT 475 0051	1106	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	188
+CLL	Collier	9547	11/06/2012	2012 General Election	51	PCT 475 0051	1106	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	15
+CLL	Collier	9547	11/06/2012	2012 General Election	51	PCT 475 0051	1106	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	51	PCT 475 0051	1106	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	53
+CLL	Collier	9547	11/06/2012	2012 General Election	52	PCT 477 0052	3863	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	2453
+CLL	Collier	9547	11/06/2012	2012 General Election	52	PCT 477 0052	3863	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	767
+CLL	Collier	9547	11/06/2012	2012 General Election	52	PCT 477 0052	3863	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	55
+CLL	Collier	9547	11/06/2012	2012 General Election	52	PCT 477 0052	3863	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	52	PCT 477 0052	3863	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	175
+CLL	Collier	9547	11/06/2012	2012 General Election	53	PCT 479 0053	1857	0	0	0	U.S. Representative	 District 19	140190	Trey Radel	REP	103063688	55790	1008
+CLL	Collier	9547	11/06/2012	2012 General Election	53	PCT 479 0053	1857	0	0	0	U.S. Representative	 District 19	140190	Jim Roach	DEM	111406403	55110	462
+CLL	Collier	9547	11/06/2012	2012 General Election	53	PCT 479 0053	1857	0	0	0	U.S. Representative	 District 19	140190	Brandon M. Smith	NPA	103110132	55929	43
+CLL	Collier	9547	11/06/2012	2012 General Election	53	PCT 479 0053	1857	0	0	0	U.S. Representative	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	9547	11/06/2012	2012 General Election	53	PCT 479 0053	1857	0	0	0	U.S. Representative	 District 19	140190	UnderVotes	 	0	902	94

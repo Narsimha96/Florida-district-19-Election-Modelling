@@ -1,0 +1,763 @@
+Precinct County Code	Precinct County Name	Precinct Election Number	Precinct Election Date	Precinct Election Name	Precinct Unique Precinct Identifier	Precinct Precinct Polling Location	Precinct Total Registered Voters	Precinct Total Registered Republicans	Precinct Total Registered Democrats	Precinct Total Registered All Other Parties	Contest Contest Name	Contest District	Contest Contest Code	Votes Candidate/Retention/Issue Name/WriteInsCast/OverVotes/UnderVotes	Votes Candidate Party	Votes Candidate Florida Voter Registration System ID Number	Votes DOE Assigned Candidate Number or Retention/Issue Number	Votes Vote Total
+HIL	Hillsborough	10866	11/03/2020	2020 General Election	833	833	2022	0	0	0	State Senator	 District 19	240190	Darryl Ervin Rouson	DEM	107152960	69588	874
+HIL	Hillsborough	10866	11/03/2020	2020 General Election	833	833	2022	0	0	0	State Senator	 District 19	240190	Christina Paylan	NPA	111249592	74568	416
+HIL	Hillsborough	10866	11/03/2020	2020 General Election	833	833	2022	0	0	0	State Senator	 District 19	240190	OverVotes	 	0	901	3
+HIL	Hillsborough	10866	11/03/2020	2020 General Election	833	833	2022	0	0	0	State Senator	 District 19	240190	UnderVotes	 	0	902	140
+LEE	Lee	26906	11/08/2022	2022 General Election	101	101	10250	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	3583
+LEE	Lee	26906	11/08/2022	2022 General Election	102	102	3907	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1348
+LEE	Lee	26906	11/08/2022	2022 General Election	103	103	5220	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1714
+LEE	Lee	26906	11/08/2022	2022 General Election	104	104	5363	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1814
+LEE	Lee	26906	11/08/2022	2022 General Election	105	105	3351	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1184
+LEE	Lee	26906	11/08/2022	2022 General Election	106	106	4584	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1519
+LEE	Lee	26906	11/08/2022	2022 General Election	107	107	8398	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	3079
+LEE	Lee	26906	11/08/2022	2022 General Election	108	108	6973	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2930
+LEE	Lee	26906	11/08/2022	2022 General Election	109	109	3514	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1381
+LEE	Lee	26906	11/08/2022	2022 General Election	110	110	8787	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2777
+LEE	Lee	26906	11/08/2022	2022 General Election	111	111	5249	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1757
+LEE	Lee	26906	11/08/2022	2022 General Election	112	112	6297	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2555
+LEE	Lee	26906	11/08/2022	2022 General Election	113	113	4042	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1873
+LEE	Lee	26906	11/08/2022	2022 General Election	114	114	4455	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2140
+LEE	Lee	26906	11/08/2022	2022 General Election	115	115	4041	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1934
+LEE	Lee	26906	11/08/2022	2022 General Election	116	116	2700	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	983
+LEE	Lee	26906	11/08/2022	2022 General Election	117	117	5005	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1327
+LEE	Lee	26906	11/08/2022	2022 General Election	118	118	6386	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2308
+LEE	Lee	26906	11/08/2022	2022 General Election	119	119	7202	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2848
+LEE	Lee	26906	11/08/2022	2022 General Election	120	120	5549	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1868
+LEE	Lee	26906	11/08/2022	2022 General Election	121	121	4511	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2182
+LEE	Lee	26906	11/08/2022	2022 General Election	122	122	1086	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	524
+LEE	Lee	26906	11/08/2022	2022 General Election	201	201	2888	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1387
+LEE	Lee	26906	11/08/2022	2022 General Election	202	202	12673	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	6131
+LEE	Lee	26906	11/08/2022	2022 General Election	203	203	3427	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1339
+LEE	Lee	26906	11/08/2022	2022 General Election	204	204	4158	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1592
+LEE	Lee	26906	11/08/2022	2022 General Election	205	205	3127	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1725
+LEE	Lee	26906	11/08/2022	2022 General Election	206	206	3326	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1572
+LEE	Lee	26906	11/08/2022	2022 General Election	207	207	2415	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1136
+LEE	Lee	26906	11/08/2022	2022 General Election	208	208	3685	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1331
+LEE	Lee	26906	11/08/2022	2022 General Election	209	209	5072	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1969
+LEE	Lee	26906	11/08/2022	2022 General Election	210	210	8184	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2522
+LEE	Lee	26906	11/08/2022	2022 General Election	211	211	2764	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1006
+LEE	Lee	26906	11/08/2022	2022 General Election	212	212	7165	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2537
+LEE	Lee	26906	11/08/2022	2022 General Election	213	213	3068	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1226
+LEE	Lee	26906	11/08/2022	2022 General Election	214	214	7043	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1833
+LEE	Lee	26906	11/08/2022	2022 General Election	215	215	5442	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1635
+LEE	Lee	26906	11/08/2022	2022 General Election	216	216	6161	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1384
+LEE	Lee	26906	11/08/2022	2022 General Election	217	217	5074	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1600
+LEE	Lee	26906	11/08/2022	2022 General Election	218	218	3329	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1387
+LEE	Lee	26906	11/08/2022	2022 General Election	219	219	3620	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1294
+LEE	Lee	26906	11/08/2022	2022 General Election	220	220	2892	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1201
+LEE	Lee	26906	11/08/2022	2022 General Election	221	221	4484	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1152
+LEE	Lee	26906	11/08/2022	2022 General Election	222	222	7594	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2903
+LEE	Lee	26906	11/08/2022	2022 General Election	301	301	4326	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1920
+LEE	Lee	26906	11/08/2022	2022 General Election	302	302	3840	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1886
+LEE	Lee	26906	11/08/2022	2022 General Election	303	303	6568	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	3544
+LEE	Lee	26906	11/08/2022	2022 General Election	304	304	7458	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	3240
+LEE	Lee	26906	11/08/2022	2022 General Election	305	305	3867	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2182
+LEE	Lee	26906	11/08/2022	2022 General Election	306	306	4076	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1733
+LEE	Lee	26906	11/08/2022	2022 General Election	307	307	5170	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1772
+LEE	Lee	26906	11/08/2022	2022 General Election	308	308	3468	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1417
+LEE	Lee	26906	11/08/2022	2022 General Election	309	309	1858	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	634
+LEE	Lee	26906	11/08/2022	2022 General Election	310	310	5873	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2423
+LEE	Lee	26906	11/08/2022	2022 General Election	311	311	8803	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2866
+LEE	Lee	26906	11/08/2022	2022 General Election	312	312	3372	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1499
+LEE	Lee	26906	11/08/2022	2022 General Election	313	313	6891	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	3517
+LEE	Lee	26906	11/08/2022	2022 General Election	314	314	9122	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	4474
+LEE	Lee	26906	11/08/2022	2022 General Election	315	315	4847	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1917
+LEE	Lee	26906	11/08/2022	2022 General Election	316	316	7804	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	3361
+LEE	Lee	26906	11/08/2022	2022 General Election	317	317	6716	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	3190
+LEE	Lee	26906	11/08/2022	2022 General Election	318	318	6491	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2645
+LEE	Lee	26906	11/08/2022	2022 General Election	319	319	3211	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1082
+LEE	Lee	26906	11/08/2022	2022 General Election	320	320	7087	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2328
+LEE	Lee	26906	11/08/2022	2022 General Election	321	321	2859	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1205
+LEE	Lee	26906	11/08/2022	2022 General Election	401	401	2445	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	970
+LEE	Lee	26906	11/08/2022	2022 General Election	402	402	7796	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2527
+LEE	Lee	26906	11/08/2022	2022 General Election	403	403	4725	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1287
+LEE	Lee	26906	11/08/2022	2022 General Election	404	404	3709	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1131
+LEE	Lee	26906	11/08/2022	2022 General Election	408	408	7592	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1443
+LEE	Lee	26906	11/08/2022	2022 General Election	409	409	8734	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2379
+LEE	Lee	26906	11/08/2022	2022 General Election	410	410	4775	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1200
+LEE	Lee	26906	11/08/2022	2022 General Election	411	411	5115	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1399
+LEE	Lee	26906	11/08/2022	2022 General Election	412	412	7906	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2589
+LEE	Lee	26906	11/08/2022	2022 General Election	413	413	4728	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2051
+LEE	Lee	26906	11/08/2022	2022 General Election	414	414	2162	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	812
+LEE	Lee	26906	11/08/2022	2022 General Election	415	415	8372	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1264
+LEE	Lee	26906	11/08/2022	2022 General Election	416	416	7207	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1409
+LEE	Lee	26906	11/08/2022	2022 General Election	417	417	5614	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	362
+LEE	Lee	26906	11/08/2022	2022 General Election	504	504	5837	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	402
+LEE	Lee	26906	11/08/2022	2022 General Election	505	505	4651	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	718
+LEE	Lee	26906	11/08/2022	2022 General Election	506	506	6540	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	676
+LEE	Lee	26906	11/08/2022	2022 General Election	508	508	5596	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	349
+LEE	Lee	26906	11/08/2022	2022 General Election	510	510	9686	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	207
+LEE	Lee	26906	11/08/2022	2022 General Election	514	514	1805	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	79
+LEE	Lee	26906	11/08/2022	2022 General Election	101	101	10250	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1526
+LEE	Lee	26906	11/08/2022	2022 General Election	102	102	3907	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	651
+LEE	Lee	26906	11/08/2022	2022 General Election	103	103	5220	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	774
+LEE	Lee	26906	11/08/2022	2022 General Election	104	104	5363	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	844
+LEE	Lee	26906	11/08/2022	2022 General Election	105	105	3351	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	792
+LEE	Lee	26906	11/08/2022	2022 General Election	106	106	4584	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	637
+LEE	Lee	26906	11/08/2022	2022 General Election	107	107	8398	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1344
+LEE	Lee	26906	11/08/2022	2022 General Election	108	108	6973	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1170
+LEE	Lee	26906	11/08/2022	2022 General Election	109	109	3514	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	547
+LEE	Lee	26906	11/08/2022	2022 General Election	110	110	8787	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1513
+LEE	Lee	26906	11/08/2022	2022 General Election	111	111	5249	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	726
+LEE	Lee	26906	11/08/2022	2022 General Election	112	112	6297	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	999
+LEE	Lee	26906	11/08/2022	2022 General Election	113	113	4042	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	688
+LEE	Lee	26906	11/08/2022	2022 General Election	114	114	4455	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	713
+LEE	Lee	26906	11/08/2022	2022 General Election	115	115	4041	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	619
+LEE	Lee	26906	11/08/2022	2022 General Election	116	116	2700	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	680
+LEE	Lee	26906	11/08/2022	2022 General Election	117	117	5005	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	617
+LEE	Lee	26906	11/08/2022	2022 General Election	118	118	6386	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	818
+LEE	Lee	26906	11/08/2022	2022 General Election	119	119	7202	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1170
+LEE	Lee	26906	11/08/2022	2022 General Election	120	120	5549	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	677
+LEE	Lee	26906	11/08/2022	2022 General Election	121	121	4511	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	686
+LEE	Lee	26906	11/08/2022	2022 General Election	122	122	1086	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	207
+LEE	Lee	26906	11/08/2022	2022 General Election	201	201	2888	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	587
+LEE	Lee	26906	11/08/2022	2022 General Election	202	202	12673	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	3091
+LEE	Lee	26906	11/08/2022	2022 General Election	203	203	3427	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	738
+LEE	Lee	26906	11/08/2022	2022 General Election	204	204	4158	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	770
+LEE	Lee	26906	11/08/2022	2022 General Election	205	205	3127	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	610
+LEE	Lee	26906	11/08/2022	2022 General Election	206	206	3326	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	463
+LEE	Lee	26906	11/08/2022	2022 General Election	207	207	2415	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	350
+LEE	Lee	26906	11/08/2022	2022 General Election	208	208	3685	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	637
+LEE	Lee	26906	11/08/2022	2022 General Election	209	209	5072	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	989
+LEE	Lee	26906	11/08/2022	2022 General Election	210	210	8184	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1412
+LEE	Lee	26906	11/08/2022	2022 General Election	211	211	2764	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	484
+LEE	Lee	26906	11/08/2022	2022 General Election	212	212	7165	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1769
+LEE	Lee	26906	11/08/2022	2022 General Election	213	213	3068	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	664
+LEE	Lee	26906	11/08/2022	2022 General Election	214	214	7043	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	963
+LEE	Lee	26906	11/08/2022	2022 General Election	215	215	5442	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	814
+LEE	Lee	26906	11/08/2022	2022 General Election	216	216	6161	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1039
+LEE	Lee	26906	11/08/2022	2022 General Election	217	217	5074	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1187
+LEE	Lee	26906	11/08/2022	2022 General Election	218	218	3329	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	775
+LEE	Lee	26906	11/08/2022	2022 General Election	219	219	3620	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	747
+LEE	Lee	26906	11/08/2022	2022 General Election	220	220	2892	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	690
+LEE	Lee	26906	11/08/2022	2022 General Election	221	221	4484	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	855
+LEE	Lee	26906	11/08/2022	2022 General Election	222	222	7594	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1817
+LEE	Lee	26906	11/08/2022	2022 General Election	301	301	4326	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	889
+LEE	Lee	26906	11/08/2022	2022 General Election	302	302	3840	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	858
+LEE	Lee	26906	11/08/2022	2022 General Election	303	303	6568	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1512
+LEE	Lee	26906	11/08/2022	2022 General Election	304	304	7458	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1431
+LEE	Lee	26906	11/08/2022	2022 General Election	305	305	3867	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	855
+LEE	Lee	26906	11/08/2022	2022 General Election	306	306	4076	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	873
+LEE	Lee	26906	11/08/2022	2022 General Election	307	307	5170	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	806
+LEE	Lee	26906	11/08/2022	2022 General Election	308	308	3468	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	684
+LEE	Lee	26906	11/08/2022	2022 General Election	309	309	1858	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	300
+LEE	Lee	26906	11/08/2022	2022 General Election	310	310	5873	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1074
+LEE	Lee	26906	11/08/2022	2022 General Election	311	311	8803	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1502
+LEE	Lee	26906	11/08/2022	2022 General Election	312	312	3372	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	615
+LEE	Lee	26906	11/08/2022	2022 General Election	313	313	6891	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1695
+LEE	Lee	26906	11/08/2022	2022 General Election	314	314	9122	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1734
+LEE	Lee	26906	11/08/2022	2022 General Election	315	315	4847	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	808
+LEE	Lee	26906	11/08/2022	2022 General Election	316	316	7804	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1671
+LEE	Lee	26906	11/08/2022	2022 General Election	317	317	6716	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1313
+LEE	Lee	26906	11/08/2022	2022 General Election	318	318	6491	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1335
+LEE	Lee	26906	11/08/2022	2022 General Election	319	319	3211	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	436
+LEE	Lee	26906	11/08/2022	2022 General Election	320	320	7087	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1270
+LEE	Lee	26906	11/08/2022	2022 General Election	321	321	2859	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	521
+LEE	Lee	26906	11/08/2022	2022 General Election	401	401	2445	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	467
+LEE	Lee	26906	11/08/2022	2022 General Election	402	402	7796	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1006
+LEE	Lee	26906	11/08/2022	2022 General Election	403	403	4725	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	755
+LEE	Lee	26906	11/08/2022	2022 General Election	404	404	3709	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	510
+LEE	Lee	26906	11/08/2022	2022 General Election	408	408	7592	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	746
+LEE	Lee	26906	11/08/2022	2022 General Election	409	409	8734	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	978
+LEE	Lee	26906	11/08/2022	2022 General Election	410	410	4775	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	564
+LEE	Lee	26906	11/08/2022	2022 General Election	411	411	5115	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	763
+LEE	Lee	26906	11/08/2022	2022 General Election	412	412	7906	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1291
+LEE	Lee	26906	11/08/2022	2022 General Election	413	413	4728	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	792
+LEE	Lee	26906	11/08/2022	2022 General Election	414	414	2162	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	362
+LEE	Lee	26906	11/08/2022	2022 General Election	415	415	8372	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1449
+LEE	Lee	26906	11/08/2022	2022 General Election	416	416	7207	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1657
+LEE	Lee	26906	11/08/2022	2022 General Election	417	417	5614	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	879
+LEE	Lee	26906	11/08/2022	2022 General Election	504	504	5837	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	309
+LEE	Lee	26906	11/08/2022	2022 General Election	505	505	4651	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	545
+LEE	Lee	26906	11/08/2022	2022 General Election	506	506	6540	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	513
+LEE	Lee	26906	11/08/2022	2022 General Election	508	508	5596	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	207
+LEE	Lee	26906	11/08/2022	2022 General Election	510	510	9686	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	127
+LEE	Lee	26906	11/08/2022	2022 General Election	514	514	1805	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	76
+LEE	Lee	26906	11/08/2022	2022 General Election	101	101	10250	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	7
+LEE	Lee	26906	11/08/2022	2022 General Election	102	102	3907	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	103	103	5220	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	4
+LEE	Lee	26906	11/08/2022	2022 General Election	104	104	5363	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	105	105	3351	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	106	106	4584	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	107	107	8398	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	108	108	6973	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	109	109	3514	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	110	110	8787	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	111	111	5249	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	112	112	6297	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	5
+LEE	Lee	26906	11/08/2022	2022 General Election	113	113	4042	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	114	114	4455	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	115	115	4041	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	116	116	2700	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	117	117	5005	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	118	118	6386	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	119	119	7202	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	120	120	5549	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	121	121	4511	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	122	122	1086	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	201	201	2888	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	202	202	12673	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	7
+LEE	Lee	26906	11/08/2022	2022 General Election	203	203	3427	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	204	204	4158	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	205	205	3127	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	206	206	3326	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	207	207	2415	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	208	208	3685	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	209	209	5072	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	210	210	8184	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	211	211	2764	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	212	212	7165	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	213	213	3068	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	214	214	7043	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	6
+LEE	Lee	26906	11/08/2022	2022 General Election	215	215	5442	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	216	216	6161	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	217	217	5074	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	8
+LEE	Lee	26906	11/08/2022	2022 General Election	218	218	3329	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	219	219	3620	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	220	220	2892	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	221	221	4484	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	222	222	7594	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	301	301	4326	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	302	302	3840	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	303	303	6568	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	304	304	7458	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	305	305	3867	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	306	306	4076	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	307	307	5170	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	308	308	3468	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	309	309	1858	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	310	310	5873	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	311	311	8803	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	6
+LEE	Lee	26906	11/08/2022	2022 General Election	312	312	3372	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	313	313	6891	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	314	314	9122	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	5
+LEE	Lee	26906	11/08/2022	2022 General Election	315	315	4847	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	316	316	7804	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	317	317	6716	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	318	318	6491	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	319	319	3211	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	320	320	7087	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	321	321	2859	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	401	401	2445	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	402	402	7796	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	403	403	4725	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	404	404	3709	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	408	408	7592	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	409	409	8734	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	6
+LEE	Lee	26906	11/08/2022	2022 General Election	410	410	4775	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	411	411	5115	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	412	412	7906	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+LEE	Lee	26906	11/08/2022	2022 General Election	413	413	4728	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	414	414	2162	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	415	415	8372	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	4
+LEE	Lee	26906	11/08/2022	2022 General Election	416	416	7207	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	5
+LEE	Lee	26906	11/08/2022	2022 General Election	417	417	5614	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	504	504	5837	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	505	505	4651	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	5
+LEE	Lee	26906	11/08/2022	2022 General Election	506	506	6540	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+LEE	Lee	26906	11/08/2022	2022 General Election	508	508	5596	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	510	510	9686	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+LEE	Lee	26906	11/08/2022	2022 General Election	514	514	1805	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+LEE	Lee	26906	11/08/2022	2022 General Election	101	101	10250	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	102	102	3907	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	103	103	5220	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	104	104	5363	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	105	105	3351	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	106	106	4584	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	107	107	8398	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	108	108	6973	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	109	109	3514	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	110	110	8787	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	111	111	5249	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	112	112	6297	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	113	113	4042	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	114	114	4455	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	115	115	4041	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	116	116	2700	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	117	117	5005	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	118	118	6386	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	119	119	7202	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	120	120	5549	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	121	121	4511	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	122	122	1086	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	201	201	2888	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	202	202	12673	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	203	203	3427	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	204	204	4158	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	205	205	3127	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	206	206	3326	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	207	207	2415	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	208	208	3685	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	209	209	5072	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	210	210	8184	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	211	211	2764	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	212	212	7165	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	213	213	3068	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	214	214	7043	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	215	215	5442	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	26906	11/08/2022	2022 General Election	216	216	6161	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	217	217	5074	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	218	218	3329	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	219	219	3620	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	220	220	2892	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	221	221	4484	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	26906	11/08/2022	2022 General Election	222	222	7594	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	301	301	4326	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	302	302	3840	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	303	303	6568	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	304	304	7458	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	2
+LEE	Lee	26906	11/08/2022	2022 General Election	305	305	3867	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	306	306	4076	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	26906	11/08/2022	2022 General Election	307	307	5170	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	26906	11/08/2022	2022 General Election	308	308	3468	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	309	309	1858	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	310	310	5873	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	311	311	8803	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	26906	11/08/2022	2022 General Election	312	312	3372	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	313	313	6891	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	314	314	9122	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	26906	11/08/2022	2022 General Election	315	315	4847	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+LEE	Lee	26906	11/08/2022	2022 General Election	316	316	7804	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	317	317	6716	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	318	318	6491	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	319	319	3211	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	320	320	7087	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	321	321	2859	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	401	401	2445	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	402	402	7796	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	403	403	4725	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	404	404	3709	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	408	408	7592	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	409	409	8734	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	410	410	4775	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	411	411	5115	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	412	412	7906	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	413	413	4728	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	414	414	2162	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	415	415	8372	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	416	416	7207	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	417	417	5614	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	504	504	5837	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	505	505	4651	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	506	506	6540	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	508	508	5596	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	510	510	9686	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	514	514	1805	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+LEE	Lee	26906	11/08/2022	2022 General Election	101	101	10250	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	86
+LEE	Lee	26906	11/08/2022	2022 General Election	102	102	3907	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	29
+LEE	Lee	26906	11/08/2022	2022 General Election	103	103	5220	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	36
+LEE	Lee	26906	11/08/2022	2022 General Election	104	104	5363	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	39
+LEE	Lee	26906	11/08/2022	2022 General Election	105	105	3351	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	34
+LEE	Lee	26906	11/08/2022	2022 General Election	106	106	4584	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	24
+LEE	Lee	26906	11/08/2022	2022 General Election	107	107	8398	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	68
+LEE	Lee	26906	11/08/2022	2022 General Election	108	108	6973	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	48
+LEE	Lee	26906	11/08/2022	2022 General Election	109	109	3514	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	33
+LEE	Lee	26906	11/08/2022	2022 General Election	110	110	8787	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	56
+LEE	Lee	26906	11/08/2022	2022 General Election	111	111	5249	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	22
+LEE	Lee	26906	11/08/2022	2022 General Election	112	112	6297	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	49
+LEE	Lee	26906	11/08/2022	2022 General Election	113	113	4042	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	31
+LEE	Lee	26906	11/08/2022	2022 General Election	114	114	4455	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	35
+LEE	Lee	26906	11/08/2022	2022 General Election	115	115	4041	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	25
+LEE	Lee	26906	11/08/2022	2022 General Election	116	116	2700	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	19
+LEE	Lee	26906	11/08/2022	2022 General Election	117	117	5005	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	28
+LEE	Lee	26906	11/08/2022	2022 General Election	118	118	6386	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	45
+LEE	Lee	26906	11/08/2022	2022 General Election	119	119	7202	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	46
+LEE	Lee	26906	11/08/2022	2022 General Election	120	120	5549	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	24
+LEE	Lee	26906	11/08/2022	2022 General Election	121	121	4511	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	30
+LEE	Lee	26906	11/08/2022	2022 General Election	122	122	1086	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	18
+LEE	Lee	26906	11/08/2022	2022 General Election	201	201	2888	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	34
+LEE	Lee	26906	11/08/2022	2022 General Election	202	202	12673	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	109
+LEE	Lee	26906	11/08/2022	2022 General Election	203	203	3427	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	34
+LEE	Lee	26906	11/08/2022	2022 General Election	204	204	4158	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	37
+LEE	Lee	26906	11/08/2022	2022 General Election	205	205	3127	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	35
+LEE	Lee	26906	11/08/2022	2022 General Election	206	206	3326	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	27
+LEE	Lee	26906	11/08/2022	2022 General Election	207	207	2415	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	12
+LEE	Lee	26906	11/08/2022	2022 General Election	208	208	3685	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	26
+LEE	Lee	26906	11/08/2022	2022 General Election	209	209	5072	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	36
+LEE	Lee	26906	11/08/2022	2022 General Election	210	210	8184	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	61
+LEE	Lee	26906	11/08/2022	2022 General Election	211	211	2764	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	18
+LEE	Lee	26906	11/08/2022	2022 General Election	212	212	7165	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	61
+LEE	Lee	26906	11/08/2022	2022 General Election	213	213	3068	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	30
+LEE	Lee	26906	11/08/2022	2022 General Election	214	214	7043	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	25
+LEE	Lee	26906	11/08/2022	2022 General Election	215	215	5442	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	37
+LEE	Lee	26906	11/08/2022	2022 General Election	216	216	6161	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	25
+LEE	Lee	26906	11/08/2022	2022 General Election	217	217	5074	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	43
+LEE	Lee	26906	11/08/2022	2022 General Election	218	218	3329	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	29
+LEE	Lee	26906	11/08/2022	2022 General Election	219	219	3620	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	28
+LEE	Lee	26906	11/08/2022	2022 General Election	220	220	2892	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	17
+LEE	Lee	26906	11/08/2022	2022 General Election	221	221	4484	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	24
+LEE	Lee	26906	11/08/2022	2022 General Election	222	222	7594	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	60
+LEE	Lee	26906	11/08/2022	2022 General Election	301	301	4326	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	41
+LEE	Lee	26906	11/08/2022	2022 General Election	302	302	3840	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	38
+LEE	Lee	26906	11/08/2022	2022 General Election	303	303	6568	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	67
+LEE	Lee	26906	11/08/2022	2022 General Election	304	304	7458	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	70
+LEE	Lee	26906	11/08/2022	2022 General Election	305	305	3867	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	55
+LEE	Lee	26906	11/08/2022	2022 General Election	306	306	4076	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	49
+LEE	Lee	26906	11/08/2022	2022 General Election	307	307	5170	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	39
+LEE	Lee	26906	11/08/2022	2022 General Election	308	308	3468	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	29
+LEE	Lee	26906	11/08/2022	2022 General Election	309	309	1858	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	14
+LEE	Lee	26906	11/08/2022	2022 General Election	310	310	5873	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	51
+LEE	Lee	26906	11/08/2022	2022 General Election	311	311	8803	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	59
+LEE	Lee	26906	11/08/2022	2022 General Election	312	312	3372	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	41
+LEE	Lee	26906	11/08/2022	2022 General Election	313	313	6891	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	77
+LEE	Lee	26906	11/08/2022	2022 General Election	314	314	9122	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	73
+LEE	Lee	26906	11/08/2022	2022 General Election	315	315	4847	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	50
+LEE	Lee	26906	11/08/2022	2022 General Election	316	316	7804	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	58
+LEE	Lee	26906	11/08/2022	2022 General Election	317	317	6716	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	69
+LEE	Lee	26906	11/08/2022	2022 General Election	318	318	6491	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	62
+LEE	Lee	26906	11/08/2022	2022 General Election	319	319	3211	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	24
+LEE	Lee	26906	11/08/2022	2022 General Election	320	320	7087	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	67
+LEE	Lee	26906	11/08/2022	2022 General Election	321	321	2859	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	39
+LEE	Lee	26906	11/08/2022	2022 General Election	401	401	2445	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	27
+LEE	Lee	26906	11/08/2022	2022 General Election	402	402	7796	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	50
+LEE	Lee	26906	11/08/2022	2022 General Election	403	403	4725	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	21
+LEE	Lee	26906	11/08/2022	2022 General Election	404	404	3709	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	27
+LEE	Lee	26906	11/08/2022	2022 General Election	408	408	7592	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	32
+LEE	Lee	26906	11/08/2022	2022 General Election	409	409	8734	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	60
+LEE	Lee	26906	11/08/2022	2022 General Election	410	410	4775	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	26
+LEE	Lee	26906	11/08/2022	2022 General Election	411	411	5115	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	35
+LEE	Lee	26906	11/08/2022	2022 General Election	412	412	7906	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	48
+LEE	Lee	26906	11/08/2022	2022 General Election	413	413	4728	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	47
+LEE	Lee	26906	11/08/2022	2022 General Election	414	414	2162	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	11
+LEE	Lee	26906	11/08/2022	2022 General Election	415	415	8372	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	211
+LEE	Lee	26906	11/08/2022	2022 General Election	416	416	7207	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	76
+LEE	Lee	26906	11/08/2022	2022 General Election	417	417	5614	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	22
+LEE	Lee	26906	11/08/2022	2022 General Election	504	504	5837	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	5
+LEE	Lee	26906	11/08/2022	2022 General Election	505	505	4651	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	23
+LEE	Lee	26906	11/08/2022	2022 General Election	506	506	6540	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	15
+LEE	Lee	26906	11/08/2022	2022 General Election	508	508	5596	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	5
+LEE	Lee	26906	11/08/2022	2022 General Election	510	510	9686	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	6
+LEE	Lee	26906	11/08/2022	2022 General Election	514	514	1805	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1410	141	4076	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1977
+CLL	Collier	26906	11/08/2022	2022 General Election	1420	142	1820	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	411
+CLL	Collier	26906	11/08/2022	2022 General Election	1560	156	4795	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	93
+CLL	Collier	26906	11/08/2022	2022 General Election	1890	189	288	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	112
+CLL	Collier	26906	11/08/2022	2022 General Election	1900	190	3874	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2170
+CLL	Collier	26906	11/08/2022	2022 General Election	1930	193	6278	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	3628
+CLL	Collier	26906	11/08/2022	2022 General Election	1940	194	4121	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2460
+CLL	Collier	26906	11/08/2022	2022 General Election	2020	202	4408	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2071
+CLL	Collier	26906	11/08/2022	2022 General Election	2030	203	5319	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2809
+CLL	Collier	26906	11/08/2022	2022 General Election	2040	204	4158	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1906
+CLL	Collier	26906	11/08/2022	2022 General Election	2210	221	4760	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2120
+CLL	Collier	26906	11/08/2022	2022 General Election	2220	222	4448	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2242
+CLL	Collier	26906	11/08/2022	2022 General Election	2230	223	4738	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1878
+CLL	Collier	26906	11/08/2022	2022 General Election	2420	242	3543	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1680
+CLL	Collier	26906	11/08/2022	2022 General Election	2510	251	5178	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2120
+CLL	Collier	26906	11/08/2022	2022 General Election	2520	252	2689	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1514
+CLL	Collier	26906	11/08/2022	2022 General Election	2550	255	6030	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2979
+CLL	Collier	26906	11/08/2022	2022 General Election	2570	257	3338	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1681
+CLL	Collier	26906	11/08/2022	2022 General Election	2580	258	3852	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1755
+CLL	Collier	26906	11/08/2022	2022 General Election	3220	322	3769	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	534
+CLL	Collier	26906	11/08/2022	2022 General Election	3230	323	5588	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	14
+CLL	Collier	26906	11/08/2022	2022 General Election	3240	324	4930	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	174
+CLL	Collier	26906	11/08/2022	2022 General Election	4140	414	3507	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1431
+CLL	Collier	26906	11/08/2022	2022 General Election	4180	418	4989	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2241
+CLL	Collier	26906	11/08/2022	2022 General Election	4280	428	3875	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1681
+CLL	Collier	26906	11/08/2022	2022 General Election	4300	430	3563	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	932
+CLL	Collier	26906	11/08/2022	2022 General Election	4340	434	5942	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2240
+CLL	Collier	26906	11/08/2022	2022 General Election	4350	435	4885	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1608
+CLL	Collier	26906	11/08/2022	2022 General Election	4390	439	2733	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	423
+CLL	Collier	26906	11/08/2022	2022 General Election	4400	440	4928	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2072
+CLL	Collier	26906	11/08/2022	2022 General Election	4500	450	116	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	27
+CLL	Collier	26906	11/08/2022	2022 General Election	4620	462	3601	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1902
+CLL	Collier	26906	11/08/2022	2022 General Election	4640	464	4245	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2228
+CLL	Collier	26906	11/08/2022	2022 General Election	4720	472	887	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	348
+CLL	Collier	26906	11/08/2022	2022 General Election	4750	475	1195	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	662
+CLL	Collier	26906	11/08/2022	2022 General Election	4770	477	4220	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	2238
+CLL	Collier	26906	11/08/2022	2022 General Election	4790	479	2099	0	0	0	Representative in Congress	 District 19	140190	Byron Donalds	REP	103089553	79881	1095
+CLL	Collier	26906	11/08/2022	2022 General Election	1410	141	4076	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	722
+CLL	Collier	26906	11/08/2022	2022 General Election	1420	142	1820	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	128
+CLL	Collier	26906	11/08/2022	2022 General Election	1560	156	4795	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	40
+CLL	Collier	26906	11/08/2022	2022 General Election	1890	189	288	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	70
+CLL	Collier	26906	11/08/2022	2022 General Election	1900	190	3874	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	690
+CLL	Collier	26906	11/08/2022	2022 General Election	1930	193	6278	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1001
+CLL	Collier	26906	11/08/2022	2022 General Election	1940	194	4121	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	670
+CLL	Collier	26906	11/08/2022	2022 General Election	2020	202	4408	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	945
+CLL	Collier	26906	11/08/2022	2022 General Election	2030	203	5319	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	979
+CLL	Collier	26906	11/08/2022	2022 General Election	2040	204	4158	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	846
+CLL	Collier	26906	11/08/2022	2022 General Election	2210	221	4760	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1105
+CLL	Collier	26906	11/08/2022	2022 General Election	2220	222	4448	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	957
+CLL	Collier	26906	11/08/2022	2022 General Election	2230	223	4738	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	988
+CLL	Collier	26906	11/08/2022	2022 General Election	2420	242	3543	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	858
+CLL	Collier	26906	11/08/2022	2022 General Election	2510	251	5178	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1071
+CLL	Collier	26906	11/08/2022	2022 General Election	2520	252	2689	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	573
+CLL	Collier	26906	11/08/2022	2022 General Election	2550	255	6030	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1551
+CLL	Collier	26906	11/08/2022	2022 General Election	2570	257	3338	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	653
+CLL	Collier	26906	11/08/2022	2022 General Election	2580	258	3852	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	843
+CLL	Collier	26906	11/08/2022	2022 General Election	3220	322	3769	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	129
+CLL	Collier	26906	11/08/2022	2022 General Election	3230	323	5588	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	7
+CLL	Collier	26906	11/08/2022	2022 General Election	3240	324	4930	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	65
+CLL	Collier	26906	11/08/2022	2022 General Election	4140	414	3507	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	800
+CLL	Collier	26906	11/08/2022	2022 General Election	4180	418	4989	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1055
+CLL	Collier	26906	11/08/2022	2022 General Election	4280	428	3875	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	626
+CLL	Collier	26906	11/08/2022	2022 General Election	4300	430	3563	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	407
+CLL	Collier	26906	11/08/2022	2022 General Election	4340	434	5942	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1140
+CLL	Collier	26906	11/08/2022	2022 General Election	4350	435	4885	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	1011
+CLL	Collier	26906	11/08/2022	2022 General Election	4390	439	2733	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	274
+CLL	Collier	26906	11/08/2022	2022 General Election	4400	440	4928	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	950
+CLL	Collier	26906	11/08/2022	2022 General Election	4500	450	116	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	23
+CLL	Collier	26906	11/08/2022	2022 General Election	4620	462	3601	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	668
+CLL	Collier	26906	11/08/2022	2022 General Election	4640	464	4245	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	806
+CLL	Collier	26906	11/08/2022	2022 General Election	4720	472	887	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	149
+CLL	Collier	26906	11/08/2022	2022 General Election	4750	475	1195	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	190
+CLL	Collier	26906	11/08/2022	2022 General Election	4770	477	4220	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	810
+CLL	Collier	26906	11/08/2022	2022 General Election	4790	479	2099	0	0	0	Representative in Congress	 District 19	140190	Cindy Banyai	DEM	117627943	79324	399
+CLL	Collier	26906	11/08/2022	2022 General Election	1410	141	4076	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+CLL	Collier	26906	11/08/2022	2022 General Election	1420	142	1820	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1560	156	4795	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1890	189	288	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1900	190	3874	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1930	193	6278	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+CLL	Collier	26906	11/08/2022	2022 General Election	1940	194	4121	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+CLL	Collier	26906	11/08/2022	2022 General Election	2020	202	4408	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+CLL	Collier	26906	11/08/2022	2022 General Election	2030	203	5319	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+CLL	Collier	26906	11/08/2022	2022 General Election	2040	204	4158	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	4
+CLL	Collier	26906	11/08/2022	2022 General Election	2210	221	4760	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+CLL	Collier	26906	11/08/2022	2022 General Election	2220	222	4448	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+CLL	Collier	26906	11/08/2022	2022 General Election	2230	223	4738	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+CLL	Collier	26906	11/08/2022	2022 General Election	2420	242	3543	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+CLL	Collier	26906	11/08/2022	2022 General Election	2510	251	5178	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	8
+CLL	Collier	26906	11/08/2022	2022 General Election	2520	252	2689	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+CLL	Collier	26906	11/08/2022	2022 General Election	2550	255	6030	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+CLL	Collier	26906	11/08/2022	2022 General Election	2570	257	3338	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	6
+CLL	Collier	26906	11/08/2022	2022 General Election	2580	258	3852	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+CLL	Collier	26906	11/08/2022	2022 General Election	3220	322	3769	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+CLL	Collier	26906	11/08/2022	2022 General Election	3230	323	5588	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+CLL	Collier	26906	11/08/2022	2022 General Election	3240	324	4930	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4140	414	3507	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+CLL	Collier	26906	11/08/2022	2022 General Election	4180	418	4989	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	5
+CLL	Collier	26906	11/08/2022	2022 General Election	4280	428	3875	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	4
+CLL	Collier	26906	11/08/2022	2022 General Election	4300	430	3563	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+CLL	Collier	26906	11/08/2022	2022 General Election	4340	434	5942	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	4
+CLL	Collier	26906	11/08/2022	2022 General Election	4350	435	4885	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+CLL	Collier	26906	11/08/2022	2022 General Election	4390	439	2733	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	2
+CLL	Collier	26906	11/08/2022	2022 General Election	4400	440	4928	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+CLL	Collier	26906	11/08/2022	2022 General Election	4500	450	116	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4620	462	3601	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	4
+CLL	Collier	26906	11/08/2022	2022 General Election	4640	464	4245	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+CLL	Collier	26906	11/08/2022	2022 General Election	4720	472	887	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	1
+CLL	Collier	26906	11/08/2022	2022 General Election	4750	475	1195	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	4
+CLL	Collier	26906	11/08/2022	2022 General Election	4770	477	4220	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	3
+CLL	Collier	26906	11/08/2022	2022 General Election	4790	479	2099	0	0	0	Representative in Congress	 District 19	140190	WriteinVotes	 	0	900	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1410	141	4076	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	26906	11/08/2022	2022 General Election	1420	142	1820	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1560	156	4795	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1890	189	288	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1900	190	3874	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	26906	11/08/2022	2022 General Election	1930	193	6278	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1940	194	4121	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	26906	11/08/2022	2022 General Election	2020	202	4408	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	2030	203	5319	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	2040	204	4158	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	2210	221	4760	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	2
+CLL	Collier	26906	11/08/2022	2022 General Election	2220	222	4448	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	2230	223	4738	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	26906	11/08/2022	2022 General Election	2420	242	3543	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	2510	251	5178	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	2520	252	2689	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	2550	255	6030	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	26906	11/08/2022	2022 General Election	2570	257	3338	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	2580	258	3852	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	3220	322	3769	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	2
+CLL	Collier	26906	11/08/2022	2022 General Election	3230	323	5588	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	3240	324	4930	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4140	414	3507	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4180	418	4989	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	26906	11/08/2022	2022 General Election	4280	428	3875	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	26906	11/08/2022	2022 General Election	4300	430	3563	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4340	434	5942	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	26906	11/08/2022	2022 General Election	4350	435	4885	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	26906	11/08/2022	2022 General Election	4390	439	2733	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4400	440	4928	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	1
+CLL	Collier	26906	11/08/2022	2022 General Election	4500	450	116	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4620	462	3601	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	2
+CLL	Collier	26906	11/08/2022	2022 General Election	4640	464	4245	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4720	472	887	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4750	475	1195	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4770	477	4220	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4790	479	2099	0	0	0	Representative in Congress	 District 19	140190	OverVotes	 	0	901	0
+CLL	Collier	26906	11/08/2022	2022 General Election	1410	141	4076	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	35
+CLL	Collier	26906	11/08/2022	2022 General Election	1420	142	1820	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	11
+CLL	Collier	26906	11/08/2022	2022 General Election	1560	156	4795	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	3
+CLL	Collier	26906	11/08/2022	2022 General Election	1890	189	288	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	1
+CLL	Collier	26906	11/08/2022	2022 General Election	1900	190	3874	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	51
+CLL	Collier	26906	11/08/2022	2022 General Election	1930	193	6278	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	73
+CLL	Collier	26906	11/08/2022	2022 General Election	1940	194	4121	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	56
+CLL	Collier	26906	11/08/2022	2022 General Election	2020	202	4408	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	51
+CLL	Collier	26906	11/08/2022	2022 General Election	2030	203	5319	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	56
+CLL	Collier	26906	11/08/2022	2022 General Election	2040	204	4158	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	32
+CLL	Collier	26906	11/08/2022	2022 General Election	2210	221	4760	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	37
+CLL	Collier	26906	11/08/2022	2022 General Election	2220	222	4448	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	38
+CLL	Collier	26906	11/08/2022	2022 General Election	2230	223	4738	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	46
+CLL	Collier	26906	11/08/2022	2022 General Election	2420	242	3543	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	42
+CLL	Collier	26906	11/08/2022	2022 General Election	2510	251	5178	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	46
+CLL	Collier	26906	11/08/2022	2022 General Election	2520	252	2689	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	24
+CLL	Collier	26906	11/08/2022	2022 General Election	2550	255	6030	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	87
+CLL	Collier	26906	11/08/2022	2022 General Election	2570	257	3338	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	27
+CLL	Collier	26906	11/08/2022	2022 General Election	2580	258	3852	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	39
+CLL	Collier	26906	11/08/2022	2022 General Election	3220	322	3769	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	3
+CLL	Collier	26906	11/08/2022	2022 General Election	3230	323	5588	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	0
+CLL	Collier	26906	11/08/2022	2022 General Election	3240	324	4930	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	5
+CLL	Collier	26906	11/08/2022	2022 General Election	4140	414	3507	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	41
+CLL	Collier	26906	11/08/2022	2022 General Election	4180	418	4989	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	55
+CLL	Collier	26906	11/08/2022	2022 General Election	4280	428	3875	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	44
+CLL	Collier	26906	11/08/2022	2022 General Election	4300	430	3563	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	24
+CLL	Collier	26906	11/08/2022	2022 General Election	4340	434	5942	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	35
+CLL	Collier	26906	11/08/2022	2022 General Election	4350	435	4885	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	48
+CLL	Collier	26906	11/08/2022	2022 General Election	4390	439	2733	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	9
+CLL	Collier	26906	11/08/2022	2022 General Election	4400	440	4928	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	35
+CLL	Collier	26906	11/08/2022	2022 General Election	4500	450	116	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	0
+CLL	Collier	26906	11/08/2022	2022 General Election	4620	462	3601	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	39
+CLL	Collier	26906	11/08/2022	2022 General Election	4640	464	4245	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	38
+CLL	Collier	26906	11/08/2022	2022 General Election	4720	472	887	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	11
+CLL	Collier	26906	11/08/2022	2022 General Election	4750	475	1195	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	8
+CLL	Collier	26906	11/08/2022	2022 General Election	4770	477	4220	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	40
+CLL	Collier	26906	11/08/2022	2022 General Election	4790	479	2099	0	0	0	Representative in Congress	 District 19	140190	UnderVotes	 	0	902	25
+FLA	Flagler	26906	11/08/2022	2022 General Election	101	101	2773	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1012
+FLA	Flagler	26906	11/08/2022	2022 General Election	102	102	3049	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1269
+FLA	Flagler	26906	11/08/2022	2022 General Election	103	103	3479	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1918
+FLA	Flagler	26906	11/08/2022	2022 General Election	201	201	4021	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	2027
+FLA	Flagler	26906	11/08/2022	2022 General Election	202	202	2043	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	951
+FLA	Flagler	26906	11/08/2022	2022 General Election	401	401	5872	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	3196
+FLA	Flagler	26906	11/08/2022	2022 General Election	501	501	8277	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	2952
+FLA	Flagler	26906	11/08/2022	2022 General Election	502	502	4146	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1597
+FLA	Flagler	26906	11/08/2022	2022 General Election	503	503	3682	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1120
+FLA	Flagler	26906	11/08/2022	2022 General Election	504	504	3794	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1195
+FLA	Flagler	26906	11/08/2022	2022 General Election	505	505	5321	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1924
+FLA	Flagler	26906	11/08/2022	2022 General Election	506	506	8798	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	2806
+FLA	Flagler	26906	11/08/2022	2022 General Election	507	507	4721	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1570
+FLA	Flagler	26906	11/08/2022	2022 General Election	508	508	4770	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1766
+FLA	Flagler	26906	11/08/2022	2022 General Election	509	509	5425	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1885
+FLA	Flagler	26906	11/08/2022	2022 General Election	510	510	3651	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1372
+FLA	Flagler	26906	11/08/2022	2022 General Election	511	511	5155	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	2226
+FLA	Flagler	26906	11/08/2022	2022 General Election	512	512	4078	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1669
+FLA	Flagler	26906	11/08/2022	2022 General Election	513	513	6120	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	2647
+FLA	Flagler	26906	11/08/2022	2022 General Election	514	514	2964	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1598
+FLA	Flagler	26906	11/08/2022	2022 General Election	515	515	3167	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1628
+FLA	Flagler	26906	11/08/2022	2022 General Election	101	101	2773	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	488
+FLA	Flagler	26906	11/08/2022	2022 General Election	102	102	3049	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	249
+FLA	Flagler	26906	11/08/2022	2022 General Election	103	103	3479	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	701
+FLA	Flagler	26906	11/08/2022	2022 General Election	201	201	4021	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	854
+FLA	Flagler	26906	11/08/2022	2022 General Election	202	202	2043	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	557
+FLA	Flagler	26906	11/08/2022	2022 General Election	401	401	5872	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1224
+FLA	Flagler	26906	11/08/2022	2022 General Election	501	501	8277	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1504
+FLA	Flagler	26906	11/08/2022	2022 General Election	502	502	4146	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	893
+FLA	Flagler	26906	11/08/2022	2022 General Election	503	503	3682	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	751
+FLA	Flagler	26906	11/08/2022	2022 General Election	504	504	3794	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	743
+FLA	Flagler	26906	11/08/2022	2022 General Election	505	505	5321	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1095
+FLA	Flagler	26906	11/08/2022	2022 General Election	506	506	8798	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1726
+FLA	Flagler	26906	11/08/2022	2022 General Election	507	507	4721	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1009
+FLA	Flagler	26906	11/08/2022	2022 General Election	508	508	4770	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1127
+FLA	Flagler	26906	11/08/2022	2022 General Election	509	509	5425	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1099
+FLA	Flagler	26906	11/08/2022	2022 General Election	510	510	3651	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	708
+FLA	Flagler	26906	11/08/2022	2022 General Election	511	511	5155	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1032
+FLA	Flagler	26906	11/08/2022	2022 General Election	512	512	4078	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	776
+FLA	Flagler	26906	11/08/2022	2022 General Election	513	513	6120	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1259
+FLA	Flagler	26906	11/08/2022	2022 General Election	514	514	2964	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	775
+FLA	Flagler	26906	11/08/2022	2022 General Election	515	515	3167	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	653
+FLA	Flagler	26906	11/08/2022	2022 General Election	101	101	2773	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	102	102	3049	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	103	103	3479	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	201	201	4021	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	202	202	2043	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	401	401	5872	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	501	501	8277	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	502	502	4146	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	503	503	3682	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	504	504	3794	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	505	505	5321	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	506	506	8798	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	507	507	4721	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	508	508	4770	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	1
+FLA	Flagler	26906	11/08/2022	2022 General Election	509	509	5425	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	510	510	3651	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	511	511	5155	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	1
+FLA	Flagler	26906	11/08/2022	2022 General Election	512	512	4078	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	1
+FLA	Flagler	26906	11/08/2022	2022 General Election	513	513	6120	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	514	514	2964	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	515	515	3167	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+FLA	Flagler	26906	11/08/2022	2022 General Election	101	101	2773	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	38
+FLA	Flagler	26906	11/08/2022	2022 General Election	102	102	3049	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	26
+FLA	Flagler	26906	11/08/2022	2022 General Election	103	103	3479	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	68
+FLA	Flagler	26906	11/08/2022	2022 General Election	201	201	4021	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	55
+FLA	Flagler	26906	11/08/2022	2022 General Election	202	202	2043	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	37
+FLA	Flagler	26906	11/08/2022	2022 General Election	401	401	5872	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	92
+FLA	Flagler	26906	11/08/2022	2022 General Election	501	501	8277	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	119
+FLA	Flagler	26906	11/08/2022	2022 General Election	502	502	4146	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	50
+FLA	Flagler	26906	11/08/2022	2022 General Election	503	503	3682	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	48
+FLA	Flagler	26906	11/08/2022	2022 General Election	504	504	3794	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	39
+FLA	Flagler	26906	11/08/2022	2022 General Election	505	505	5321	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	75
+FLA	Flagler	26906	11/08/2022	2022 General Election	506	506	8798	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	91
+FLA	Flagler	26906	11/08/2022	2022 General Election	507	507	4721	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	82
+FLA	Flagler	26906	11/08/2022	2022 General Election	508	508	4770	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	81
+FLA	Flagler	26906	11/08/2022	2022 General Election	509	509	5425	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	57
+FLA	Flagler	26906	11/08/2022	2022 General Election	510	510	3651	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	46
+FLA	Flagler	26906	11/08/2022	2022 General Election	511	511	5155	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	82
+FLA	Flagler	26906	11/08/2022	2022 General Election	512	512	4078	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	48
+FLA	Flagler	26906	11/08/2022	2022 General Election	513	513	6120	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	84
+FLA	Flagler	26906	11/08/2022	2022 General Election	514	514	2964	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	61
+FLA	Flagler	26906	11/08/2022	2022 General Election	515	515	3167	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	49
+STJ	St. Johns	26906	11/08/2022	2022 General Election	211	PCT 211	2294	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	100
+STJ	St. Johns	26906	11/08/2022	2022 General Election	301	PCT 301	1612	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	594
+STJ	St. Johns	26906	11/08/2022	2022 General Election	302	PCT 302	1295	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	222
+STJ	St. Johns	26906	11/08/2022	2022 General Election	303	PCT 303	4896	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	330
+STJ	St. Johns	26906	11/08/2022	2022 General Election	306	PCT 306	4981	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1310
+STJ	St. Johns	26906	11/08/2022	2022 General Election	307	PCT 307	1810	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	697
+STJ	St. Johns	26906	11/08/2022	2022 General Election	308	PCT 308	2905	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1335
+STJ	St. Johns	26906	11/08/2022	2022 General Election	309	PCT 309	6682	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	2772
+STJ	St. Johns	26906	11/08/2022	2022 General Election	310	PCT 310	5666	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1131
+STJ	St. Johns	26906	11/08/2022	2022 General Election	311	PCT 311	5566	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	2467
+STJ	St. Johns	26906	11/08/2022	2022 General Election	504	PCT 504	7104	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	469
+STJ	St. Johns	26906	11/08/2022	2022 General Election	506	PCT 506	4504	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	793
+STJ	St. Johns	26906	11/08/2022	2022 General Election	508	PCT 508	3067	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	761
+STJ	St. Johns	26906	11/08/2022	2022 General Election	509	PCT 509	2632	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	632
+STJ	St. Johns	26906	11/08/2022	2022 General Election	510	PCT 510	4988	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	1863
+STJ	St. Johns	26906	11/08/2022	2022 General Election	511	PCT 511	5783	0	0	0	State Representative	 District 19	260190	Paul Renner	REP	101811890	79054	2396
+STJ	St. Johns	26906	11/08/2022	2022 General Election	211	PCT 211	2294	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	142
+STJ	St. Johns	26906	11/08/2022	2022 General Election	301	PCT 301	1612	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	349
+STJ	St. Johns	26906	11/08/2022	2022 General Election	302	PCT 302	1295	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	308
+STJ	St. Johns	26906	11/08/2022	2022 General Election	303	PCT 303	4896	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	563
+STJ	St. Johns	26906	11/08/2022	2022 General Election	306	PCT 306	4981	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	718
+STJ	St. Johns	26906	11/08/2022	2022 General Election	307	PCT 307	1810	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	424
+STJ	St. Johns	26906	11/08/2022	2022 General Election	308	PCT 308	2905	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	676
+STJ	St. Johns	26906	11/08/2022	2022 General Election	309	PCT 309	6682	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1622
+STJ	St. Johns	26906	11/08/2022	2022 General Election	310	PCT 310	5666	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	611
+STJ	St. Johns	26906	11/08/2022	2022 General Election	311	PCT 311	5566	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1482
+STJ	St. Johns	26906	11/08/2022	2022 General Election	504	PCT 504	7104	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	182
+STJ	St. Johns	26906	11/08/2022	2022 General Election	506	PCT 506	4504	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	563
+STJ	St. Johns	26906	11/08/2022	2022 General Election	508	PCT 508	3067	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	783
+STJ	St. Johns	26906	11/08/2022	2022 General Election	509	PCT 509	2632	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	863
+STJ	St. Johns	26906	11/08/2022	2022 General Election	510	PCT 510	4988	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1394
+STJ	St. Johns	26906	11/08/2022	2022 General Election	511	PCT 511	5783	0	0	0	State Representative	 District 19	260190	Adam Morley	DEM	108038947	80264	1675
+STJ	St. Johns	26906	11/08/2022	2022 General Election	211	PCT 211	2294	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	301	PCT 301	1612	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	302	PCT 302	1295	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	303	PCT 303	4896	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	306	PCT 306	4981	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	307	PCT 307	1810	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	308	PCT 308	2905	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	309	PCT 309	6682	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	310	PCT 310	5666	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	1
+STJ	St. Johns	26906	11/08/2022	2022 General Election	311	PCT 311	5566	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	504	PCT 504	7104	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	506	PCT 506	4504	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	508	PCT 508	3067	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	509	PCT 509	2632	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	510	PCT 510	4988	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	511	PCT 511	5783	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+STJ	St. Johns	26906	11/08/2022	2022 General Election	211	PCT 211	2294	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	7
+STJ	St. Johns	26906	11/08/2022	2022 General Election	301	PCT 301	1612	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	20
+STJ	St. Johns	26906	11/08/2022	2022 General Election	302	PCT 302	1295	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	10
+STJ	St. Johns	26906	11/08/2022	2022 General Election	303	PCT 303	4896	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	21
+STJ	St. Johns	26906	11/08/2022	2022 General Election	306	PCT 306	4981	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	61
+STJ	St. Johns	26906	11/08/2022	2022 General Election	307	PCT 307	1810	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	31
+STJ	St. Johns	26906	11/08/2022	2022 General Election	308	PCT 308	2905	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	52
+STJ	St. Johns	26906	11/08/2022	2022 General Election	309	PCT 309	6682	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	101
+STJ	St. Johns	26906	11/08/2022	2022 General Election	310	PCT 310	5666	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	29
+STJ	St. Johns	26906	11/08/2022	2022 General Election	311	PCT 311	5566	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	62
+STJ	St. Johns	26906	11/08/2022	2022 General Election	504	PCT 504	7104	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	14
+STJ	St. Johns	26906	11/08/2022	2022 General Election	506	PCT 506	4504	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	35
+STJ	St. Johns	26906	11/08/2022	2022 General Election	508	PCT 508	3067	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	43
+STJ	St. Johns	26906	11/08/2022	2022 General Election	509	PCT 509	2632	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	38
+STJ	St. Johns	26906	11/08/2022	2022 General Election	510	PCT 510	4988	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	95
+STJ	St. Johns	26906	11/08/2022	2022 General Election	511	PCT 511	5783	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	94

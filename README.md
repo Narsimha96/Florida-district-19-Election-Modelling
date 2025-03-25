@@ -1,4 +1,4 @@
-# CS579-Project: Florida-19 Election Modelling
+# Florida-19 Election Modelling
 
 This project focuses on modeling and predicting election outcomes for Florida's 19th Congressional District (FL-19) using historical and demographic data. It employs machine learning techniques to analyze voter behavior, predict voter turnout, and forecast election winners.
 
